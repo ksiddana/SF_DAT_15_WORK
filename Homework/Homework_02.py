@@ -146,16 +146,77 @@ import matplotlib.pyplot as plt
 #plt.plot(dates, pressure)
 
 plt.xlabel("Date")                          # set the x axis label
-plt.ylabel("Pressure")         # set the y axis label
+plt.ylabel("Pressure")                      # set the y axis label
 plt.title("Pressure today in Rome, Italy")  # set the title
 locs, labels = plt.xticks()                 # get the x tick marks
 plt.setp(labels, rotation=70)               # rotate the x ticks marks by 70 degrees
-plt.plot(dates, temperatures)               # plot again
+plt.plot(dates, pressure)               # plot again
 
 
 '''
 Part 8
 Make a scatter plot plotting pressure against temperature and humidity
 '''
+
+temperatures_normalized = [float(t) / max(temperatures) for t in temperatures]
+humidity_normalized = [float(h) / max(humidity) for h in humidity]
+pressure_normalized = [float(p) / max(pressure) for p in pressure]
+
+plt.scatter(temperatures_normalized,pressure_normalized, color='r',)
+plt.xticks()
+
+plt.legend()
+locs, labels = plt.xticks()                 # get the x tick marks
+plt.setp(labels, rotation=70)               # rotate the x ticks marks by 70 degrees
+plt.plot(dates, humidity_normalized, label='Humidity')
+plt.plot(dates, temperatures_normalized, marker='o', linestyle='--', color='r', label='Temperature')
+
+# Let's try a scatter plot!
+
+plt.scatter(pressure, humidity)
+
+'''
+BONUS:
+Learn csv.DictReader() and use it to redo Parts 1, 2, and 3.
+'''
+'''
+PART 1:
+Read in drinks.csv
+Store the header in a list called 'header'
+Store the data in a list of lists called 'data'
+Hint: you've already seen this code!
+'''
+
+with open('drinks.csv') as csvfile:
+    reader = csv.DictReader(csvfile)
+    header = reader.next()
+    csvdata = [row for row in reader]
+    
+'''
+PART 2:
+Isolate the beer_servings column in a list of integers called 'beers'
+Hint: you can use a list comprehension to do this in one line
+Expected output:
+    beers == [0, 89, ..., 32, 64]
+    len(beers) == 193
+'''
+
+beers1 = [beerdata['beer_servings'] for beerdata in csvdata]
+len(beers1)
+
+'''
+PART 3:
+Create separate lists of NA and EU beer servings: 'NA_beers', 'EU_beers'
+Hint: you can use a list comprehension with a condition
+Expected output:
+    NA_beers == [102, 122, ..., 197, 249]
+    len(NA_beers) == 23
+    EU_beers == [89, 245, ..., 206, 219]
+    len(EU_beers) == 45
+'''
+
+NA_beers1 = [NA_beers1['beer_servings'] for NA_beers1 in csvdata if NA_beers1['continent'] == 'NA']
+EU_beers1 = [EU_beers1['beer_servings'] for EU_beers1 in csvdata if EU_beers1['continent'] == 'EU']
+
 
 
