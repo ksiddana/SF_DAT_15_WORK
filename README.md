@@ -11,5 +11,8 @@ Inspite of the regular checkups and bi-yearly physicals a lot of people are dete
 
 <p>
 <b>Climate Change and CO2 Emission Rates</b><br>
-Predict the water bodies that have shrunk over the last 3 decades, in comparison to the 200 years of data and the direct correlation with the temperature increase causing a warming effect on earth. Predict droughts and heat waves and unusual weather patterns for the last few years and compare it to the actual events. 
+<ul type="disc">
+<li>Predict the water bodies that have shrunk over the last 3 decades, in comparison to the 200 years of data and the direct correlation with the temperature increase causing a warming effect on earth.</li>
+<li>Predict droughts and heat waves and unusual weather patterns for the last few years and compare it to the actual events.</li>
+</ul>
 </p>
