@@ -107,7 +107,7 @@ You've already seen this code!
 import requests # a module for reading the web
 api_endpoint = 'http://api.openweathermap.org/data/2.5/forecast/city'
 params = {}
-params['id'] = '3169070'
+params['id'] = '1261481'
 params['units'] = 'metric'
 params['APPID'] = '80575a3090bddc3ce9f363d40cee36c2'
 request = requests.get(api_endpoint, params = params)
@@ -147,10 +147,10 @@ import matplotlib.pyplot as plt
 
 plt.xlabel("Date")                          # set the x axis label
 plt.ylabel("Pressure")                      # set the y axis label
-plt.title("Pressure today in Rome, Italy")  # set the title
+plt.title("Pressure today in New Delhi, India")  # set the title
 locs, labels = plt.xticks()                 # get the x tick marks
 plt.setp(labels, rotation=70)               # rotate the x ticks marks by 70 degrees
-plt.plot(dates, pressure)               # plot again
+plt.plot(dates, temperatures)               # plot again
 
 
 '''
@@ -186,7 +186,7 @@ Store the header in a list called 'header'
 Store the data in a list of lists called 'data'
 Hint: you've already seen this code!
 '''
-
+import csv
 with open('drinks.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     header = reader.next()
@@ -218,5 +218,8 @@ Expected output:
 NA_beers1 = [NA_beers1['beer_servings'] for NA_beers1 in csvdata if NA_beers1['continent'] == 'NA']
 EU_beers1 = [EU_beers1['beer_servings'] for EU_beers1 in csvdata if EU_beers1['continent'] == 'EU']
 
+countries = [country['country'] for country in csvdata]
+India = [row for row in csvdata if row['country'] == "India"]
+Australia = [row for row in csvdata if row['country'] == "Australia"]
 
 
