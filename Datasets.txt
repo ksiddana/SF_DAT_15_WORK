@@ -1,0 +1,14 @@
+response = unirest.get("https://23andme-23andme.p.mashape.com/drug_responses/{profile_id}/",
+  headers={
+    "X-Mashape-Key": "SF6ODPg0UMmsh17ESJsL6WTGbK7Yp141HqPjsnqU4DRexBst5P",
+    "Authorization": "<required>",
+    "Accept": "text/plain"
+  }
+)
+
+curl --get --include 'https://23andme-23andme.p.mashape.com/names/a42e94634e3f7683/' \
+  -H 'X-Mashape-Key: SF6ODPg0UMmsh17ESJsL6WTGbK7Yp141HqPjsnqU4DRexBst5P' \
+  -H 'Authorization: <required>' \
+  -H 'Accept: text/plain'
+
+  SF6ODPg0UMmsh17ESJsL6WTGbK7Yp141HqPjsnqU4DRexBst5P
