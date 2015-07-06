@@ -14,7 +14,7 @@ Can we predict the risk of developing diabetes based on family history, sugar le
 **Datasets**
 * [Freebase](http://www.freebase.com/)
 * [Inside-R](http://www.inside-r.org/howto/finding-data-internet)
-* [University of Irvince Heart Disease Dataset](http://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+* [University of Irvine Heart Disease Dataset](http://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 * [Human Genome Project Databse](http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?rs=rs12564807)
 * [23andMe](https://api.23andme.com/docs/reference/#risks)
 
