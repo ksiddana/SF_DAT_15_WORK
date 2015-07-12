@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="122">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01014689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RD.03.SPR.29080</org_study_id>
+    <nct_id>NCT01014689</nct_id>
+  </id_info>
+  <brief_title>Comparison of Epiduo Associated With Lymecycline Versus Epiduo Vehicle Associated With Lymecycline in Acne Vulgaris</brief_title>
+  <acronym>TEAM</acronym>
+  <official_title>Efficacy and Safety Comparison of Epiduo Gel Associated With Lymecycline 300 mg Capsules Versus Epiduo Vehicle Gel Associated With Lymecycline 300 mg Capsules in the Treatment of Moderate to Severe Acne Vulgaris</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Galderma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Galderma</source>
+  <oversight_info>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Belgium: Institutional Review Board</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>France: Institutional Ethical Committee</authority>
+    <authority>Australia: Human Research Ethics Committee</authority>
+    <authority>Australia: National Health and Medical Research Council</authority>
+    <authority>Sweden: Institutional Review Board</authority>
+    <authority>Sweden: Swedish Research Council</authority>
+    <authority>Poland: Ethics Committee</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <authority>Italy: Ethics Committee</authority>
+    <authority>Italy: Ministry of Health</authority>
+    <authority>Brazil: Ethics Committee</authority>
+    <authority>Brazil: Ministry of Health</authority>
+    <authority>Mexico: Ethics Committee</authority>
+    <authority>Mexico: Ministry of Health</authority>
+    <authority>Germany: Ethics Commission</authority>
+    <authority>Germany: Ministry of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, controlled, multi-center, double-blind, parallel-group comparison study in
+      Subjects with moderate to severe acne vulgaris on the face.
+
+      The purpose of this study is to demonstrate the efficacy of Adapalene 0.1% / Benzoyl
+      Peroxide (BPO) 2.5% Gel associated with Lymecycline 300mg Capsules compared to Adapalene
+      0.1% /Benzoyl Peroxide 2.5% Vehicle Gel associated with Lymecycline 300mg Capsules, in the
+      treatment of moderate to severe acne vulgaris.
+
+      The safety of the two treatment regimens will also be evaluated.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2009</start_date>
+  <completion_date type="Actual">May 2010</completion_date>
+  <primary_completion_date type="Actual">April 2010</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Percent Change From Baseline in Total Lesion Count</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent change from Baseline in Total Lesion count (sum of Non-Inflammatory and Inflammatory lesions) at Week 12.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Success Rate on the Investigator's Global Assessment (IGA) at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of Subjects &quot;Clear&quot; or &quot;Almost Clear&quot; on 6-point IGA scale(0=clear, 1=almost clear, 2=mild, 3=moderate, 4=severe and 5=very severe) at Week 12.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">378</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>Adapalene 0.1% / BPO 2.5% gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adapalene 0.1% / BPO 2.5% Vehicle Gel</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adapalene/ BPO gel  with Lymecycline capsules</intervention_name>
+    <description>Gel: Topical to the face, once daily in the evening Capsule: 1 capsule once daily in the morning</description>
+    <arm_group_label>Adapalene 0.1% / BPO 2.5% gel</arm_group_label>
+    <other_name>Adapalene/BPO with Lymecycline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adapalene/ BPO  vehicle gel with Lymecycline capsules</intervention_name>
+    <description>Gel: Topical to the face, once daily in the evening Capsule: 1 capsule once daily in the morning</description>
+    <arm_group_label>Adapalene 0.1% / BPO 2.5% Vehicle Gel</arm_group_label>
+    <other_name>Adapalene/BPO vehicle with Lymecycline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female Subjects of any race, aged 12 to 35 years inclusive,
+
+          2. Subjects with moderate to severe facial acne vulgaris (Investigator's Global
+             Assessment score of  3 or 4),
+
+        Exclusion Criteria:
+
+          1. Subjects with more than 3 nodules or cysts on the face
+
+          2. Subjects with acne conglobata, acne fulminans, secondary acne (chloracne,
+             drug-induced acne, etc.),
+
+          3. Subjects with a wash-out period for topical treatment on the face less than:
+             Corticosteroids, antibiotics, antibacterials, antiseptics, retinoids, other
+             anti-inflammatory drugs or other acne treatments (2 weeks), Zinc containing drugs (1
+             week), Phototherapy devices for acne and cosmetic procedures (1 week)
+
+          4. Subjects with a wash-out period for systemic treatment less than:Acne therapy
+             containing zinc (4 weeks), Corticosteroids, antibiotics  (4 weeks), Other acne
+             treatments (6 months), Ciproterone acetate / Chlormadinone acetate (6 months),
+             Spironolactone / Drospirenone (3 months)
+
+          5. Subjects with impaired hepatic (ALT/AST &gt; 3xULN and bilirubin &gt; 1.5xULN) or renal
+             (creatinine clearance greater than 60 ml/min) functions based on a blood sample,
+
+          6. Subjects with known intolerance to lactose,
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Florence Paliargues</last_name>
+    <role>Study Director</role>
+    <affiliation>Galderma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Camberra</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Kogarah</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Melbourne</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Sydney</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Bruxelles</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Sao Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Cannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Martigues</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Pantin</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Pierre Benite</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Cuxhaven</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Darmstadt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Catania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Ferrara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Mexico city</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Tlalnepantla</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Zapopan</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Lodz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Eskilstuna</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Farsta</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galderma Investigator site</name>
+      <address>
+        <city>Hagersten</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Poland</country>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 17, 2012</lastchanged_date>
+  <firstreceived_date>November 16, 2009</firstreceived_date>
+  <firstreceived_results_date>August 12, 2011</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>acne vulgaris</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adapalene</mesh_term>
+    <mesh_term>Lymecycline</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

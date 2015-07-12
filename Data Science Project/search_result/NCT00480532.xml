@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="380">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00480532</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU FAMPLAN 2907</org_study_id>
+    <nct_id>NCT00480532</nct_id>
+  </id_info>
+  <brief_title>A Study of Continuous Oral Contraceptives and Doxycycline</brief_title>
+  <official_title>A Study of Continuous Oral Contraceptives and Doxycycline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to learn if the study drug, doxycycline, can decrease the
+      amount of unplanned vaginal bleeding that women commonly experience when  taking combined
+      oral contraception (COC)- pills with estrogen and progestin - in a continuous fashion - no
+      hormone-free week.  The study drug, doxycycline, is an antibiotic used commonly for many
+      conditions (i.e. acne, Chlamydia infections, pneumonia) and can be safely used on a daily
+      basis.  Doxycycline has been shown to decrease unplanned vaginal bleeding in progestin-only
+      contraception but has not been studied in combined hormonal contraception.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We intend to conduct a prospective, randomized, placebo controlled, double blind study at
+      Oregon Health and Science University.  This study will be conducted over four 28-day cycles
+      (112 days of active COC hormone).  All women enrolled in the study will take the same daily
+      low dose COC.  This protocol will be divided into two studies, a bleeding study and an
+      endometrial biopsy study, each with two treatment arms; typical dose doxycycline (Arm 1),
+      and controlled release subantimicrobial dose doxycycline (CRSD)(Arm 2).
+
+      The first arm (Arm 1) of this study will constitute the typical dose doxycycline arm.  In
+      this arm, there will be two study groups.  Group 1, the treatment group, will take
+      doxycycline 100 mg orally twice a day for five days starting on the first day of bleeding if
+      breakthrough bleeding occurs.  The control group will take a placebo orally twice a day for
+      five days starting on the first day of bleeding if breakthrough bleeding occurs.  After
+      three months, both groups will stop doxycycline (or placebo) and will continue on a COC
+      alone for the remaining 28 days of the study.
+
+      The second arm (Arm 2) of the study will constitute the controlled release subantimicrobial
+      dose doxycycline (CRSD doxycycline)arm.  Subjects in this arm of the study will be divided
+      into Group 3 and Group 4.  Group 3 will take CRSD doxycycline (40mg) daily for three months.
+       Group 4 will take a daily placebo.  Similarly to the first arm of the trial, after three
+      months, both groups will stop doxycycline (or placebo) and will continue in a COC alone for
+      the remaining 28 days of the study.
+
+      This study also includes a endometrial biopsy sub-study: At the time of recruitment we will
+      identify participants who are willing to undergo endometrial biopsy during the study period.
+       These subjects will constitute a separate cohort who will enroll in the prospective,
+      randomized, double blind, placebo controlled endometrial biopsy study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2007</start_date>
+  <completion_date type="Actual">May 2011</completion_date>
+  <primary_completion_date type="Actual">January 2010</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Differences in Bleeding Patterns Between Study Groups.</measure>
+    <time_frame>The outcome was also assessed for day 1 to 84</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of days of bleeding and spotting, self reported on calendar</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subject Satisfaction.</measure>
+    <time_frame>Assessed on day 112 of the study (the end of the study period).  This outcome does not represent a change from baseline.  It was assessed at the end of the study period.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>measured using 100 mm visual analog scale. anchors of &quot;not at all satisfied&quot; (0mm) &quot;extremely satisfied&quot; (100mm)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject Compliance</measure>
+    <time_frame>Assessed on day 112 of the study (the end of the study period).  The outcome reflects the number of subjects who did not miss pills during the entire 112 day study.  It does not represent a change from baseline.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>measured by self report of pill intake on daily diary (yes/no), and reported as percentage with no missed pills over entire study</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">131</enrollment>
+  <condition>Contraceptives, Oral</condition>
+  <arm_group>
+    <arm_group_label>Doxycycline 100bid x5 days</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo bid x 5 days</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subantimicrobial doxycycline daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo daily</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lybrel</intervention_name>
+    <description>All women enrolled in the study will take the same daily low dose oral contraceptive (20-mcg EE/90 mcg LNG) dosed in a continuous fashion.</description>
+    <arm_group_label>Doxycycline 100bid x5 days</arm_group_label>
+    <arm_group_label>placebo bid x 5 days</arm_group_label>
+    <other_name>Lybrel (20-mcg Ethinyl Estradiol (EE)/90 mcg Levonorgestrel (LNG)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxycycline</intervention_name>
+    <description>100 mg orally twice a day for five days starting on the first day of breakthrough bleeding.  This regimen will be repeated if bleeding persists or recurs seven days after completing five-day course of doxycycline.</description>
+    <arm_group_label>Doxycycline 100bid x5 days</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oracea</intervention_name>
+    <description>40-mg tablet daily for 84 days</description>
+    <arm_group_label>Subantimicrobial doxycycline daily</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo pill orally twice a day for five days starting on the first day of breakthrough bleeding.  This regimen will be repeated if bleeding persists or recurs seven days after completing five-day course of placebo</description>
+    <arm_group_label>placebo bid x 5 days</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxycycline 100bid x5 days at the time of bleeding</intervention_name>
+    <description>Doxycycline 100 mg orally twice a day for five days starting on the first day of breakthrough bleeding. This regimen will be repeated if bleeding persists or recurs seven days after completing five-day course of doxycycline</description>
+    <arm_group_label>Doxycycline 100bid x5 days</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Subantimicrobial doxycycline daily</intervention_name>
+    <description>Subantimicrobial dose doxycycline 40mg daily for the first 84 days of the study</description>
+    <arm_group_label>Subantimicrobial doxycycline daily</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo daily</intervention_name>
+    <description>Placebo daily for the first 84 days of the study</description>
+    <arm_group_label>placebo daily</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  General good health
+
+          -  Willing and able to agree to randomization and sign informed consent
+
+          -  Currently having regular menstrual cycles (24-36 days), with combined cyclic hormonal
+             method (COCs, Nuva Ring, Ortho Evra), without intermenstrual bleeding in last 2
+             years.
+
+        Exclusion Criteria:
+
+          -  Intrauterine device (IUD) in place
+
+          -  Abnormal pap smear that has not been treated or followed up
+
+          -  Those with hypersensitivity reactions to doxycycline or any of the tetracyclines
+
+          -  Use of depomedroxyprogesterone acetate within 9 months of the start of the study.
+
+          -  Use of hormonal medications (excluding cyclic contraceptives and plan B) within 2
+             months of the start of the study.
+
+          -  Any one unwilling to keep a daily menstrual diary or otherwise unwilling to follow
+             the study criteria
+
+          -  Currently taking medications that interfere with COCs (rifampin, carbamazepine, St.
+             Johns wort)
+
+          -  Currently has a progestin implant
+
+          -  Positive Gonorrhea or Chlamydia cultures at enrollment examination
+
+          -  Smoking more than 5 cigarettes per month
+
+          -  Any medical condition that is a contraindication to the use of COCs in accordance
+             with product labeling including:
+
+               -  History of thrombophlebitis, deep venous thrombosis, thrombogenic
+                  vasculopathies, thrombogenic rhythm disorders or thromboembolic disorders
+
+               -  Current or past history of cerebrovascular or coronary artery disease
+
+               -  Scheduled major surgery in the next six months with prolonged immobilization
+
+               -  Diabetes with vascular involvement
+
+               -  Headache with focal neurologic symptoms
+
+               -  Uncontrolled hypertension
+
+               -  Suspected or known carcinoma of the breast or personal history of breast cancer
+
+               -  Carcinoma of the endometrium or other known or suspected estrogen dependent
+                  neoplasms
+
+               -  Undiagnosed genital bleeding
+
+               -  History of cholestatic jaundice of pregnancy or cholestatic jaundice with prior
+                  oral contraceptive use
+
+               -  Hepatic adenoma or carcinoma or active liver disease if liver function has not
+                  returned to normal
+
+               -  Known or suspected pregnancy
+
+               -  Hypersensitivity to estrogen or progesterone containing products
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey T Jensen, M.D, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Hawaii (UH)</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>26826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kaneshiro B, Edelman A, Carlson N, Morgan K, Nichols M, Jensen J. Treatment of unscheduled bleeding in continuous oral contraceptive users with doxycycline: a randomized controlled trial. Obstet Gynecol. 2010 Jun;115(6):1141-9. doi: 10.1097/AOG.0b013e3181e0119c.</citation>
+    <PMID>20502283</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kaneshiro B, Edelman A, Carlson NE, Nichols M, Forbes MM, Jensen J. A randomized controlled trial of subantimicrobial-dose doxycycline to prevent unscheduled bleeding with continuous oral contraceptive pill use. Contraception. 2012 Apr;85(4):351-8. doi: 10.1016/j.contraception.2011.08.006. Epub 2011 Sep 28.</citation>
+    <PMID>22067758</PMID>
+  </results_reference>
+  <verification_date>October 2014</verification_date>
+  <lastchanged_date>October 14, 2014</lastchanged_date>
+  <firstreceived_date>May 30, 2007</firstreceived_date>
+  <firstreceived_results_date>May 21, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oregon Health and Science University</investigator_affiliation>
+    <investigator_full_name>Jeffrey Jensen</investigator_full_name>
+    <investigator_title>MD MPH</investigator_title>
+  </responsible_party>
+  <keyword>birth control</keyword>
+  <keyword>continuous contraception</keyword>
+  <keyword>break-through bleeding</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Contraceptive Agents</mesh_term>
+    <mesh_term>Contraceptives, Oral</mesh_term>
+    <mesh_term>Doxycycline</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="38">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00585286</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2006-5328</org_study_id>
+    <nct_id>NCT00585286</nct_id>
+  </id_info>
+  <brief_title>Fractional Resurfacing Device for Treatment of Acne Scarring</brief_title>
+  <official_title>Evaluation of a Novel Fractional Resurfacing Device for the Treatment of Acne Scarring</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Irvine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Reliant Technologies, Inc. Mountain View, CA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Irvine</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to evaluate the safety and effectiveness of a new
+      investigational laser device for treatment of acne scarring, for improvement in the
+      appearance of surface texture and topography (recessed or uneven surfaces).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Thirty subjects between two research locations with an acne scar severity score greater than
+      4 will receive up to 3 treatments with an FDA IDE and Institutional Review Board approved
+      10,600nm fractional carbon dioxide laser system.  Improvement of acne scarring is evaluated
+      at 1 month and 3 months post-treatment.
+
+      Post-treatment responses evaluated are immediate erythema, immediate edema, and any other
+      immediate responses. Evaluations are conducted immediate post treatment and one week
+      post-treatment. Key safety data include the severity scoring of post-treatment responses, as
+      well as by photodocumentation.
+
+      The incidence of side effects such as scarring, pigmentary changes, etc. are evaluated at
+      follow-up visits one and three months post-treatment. Key safety data include the incidence
+      rates and severity scoring of side effects, as well as by photodocumentation
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2007</start_date>
+  <completion_date type="Actual">July 2008</completion_date>
+  <primary_completion_date type="Actual">July 2008</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall Improvement of Acne Scarring</measure>
+    <time_frame>Baseline, 1 month and 3 months post-treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Subject assessment of the percent improvement of acne scarring compared to baseline and based on the quartile scale (0: no improvement; 1: 1-25% improvement; 2: 26-50%; 3: 51-75%; 4: 76-100% improvement).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Improvement in Surface Texture</measure>
+    <time_frame>Baseline, 1 month and 3 months post-treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject assessment of the percent improvement of surface texture compared to baseline and based on the quartile scale (0: no improvement; 1: 1-25% improvement; 2: 26-50%; 3: 51-75%; 4: 76-100% improvement).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Degree of Atrophy</measure>
+    <time_frame>Baseline, 1 month and 3 months post-treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject assessment of the percent improvement in extent of atrophy compared to baseline and based on the quartile scale (0: no improvement; 1: 1-25% improvement; 2: 26-50%; 3: 51-75%; 4: 76-100% improvement).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain Tolerance</measure>
+    <time_frame>At treatment visit (up to 3 visits)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The average pain score reported over all three treatments was 5.67, corresponding to &quot;moderate&quot; pain based on a 10-point scale. The pain score is recorded on a 10-point scale, with 0 being &quot;no pain&quot; and 10 being &quot;worst pain imaginable.&quot; All subjects reported that any discomfort associated with the procedure was only during active intervention and resolved immediately post-procedure. Increased pain scores correlated with increased density, but not increased energy.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Acne</condition>
+  <condition>Scar</condition>
+  <arm_group>
+    <arm_group_label>Fractional carbon dioxide laser system</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Thirty total healthy subjects from two research centers with skin type I-IV of moderate to severe acne scarring received treatment with the 10,600 nm fractional carbon dioxide laser system.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>10,600 nm fractional carbon dioxide laser system</intervention_name>
+    <description>1-3 laser treatments using 20-100 millijoules (mJ) with 100-400 microscopic treatment zones (MTZ)/cm2 per pass and total density of 600-1200 MTZ/cm2</description>
+    <arm_group_label>Fractional carbon dioxide laser system</arm_group_label>
+    <other_name>Fraxel Re:pair laser</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have Fitzpatrick skin type I-V.  (Type I is blonde/red hair with freckles and Type V
+             are Hispanics and lighter African Americans.)
+
+          -  Are male or female.
+
+          -  Are between 18 and 75 years of age.
+
+          -  Have moderate to severe acne scarring.  Acne scarring will be assessed with the Acne
+             Scar Severity Scale.  Subjects will be eligible for treatment if the area to be
+             treated is scored as having an Acne Scar Severity Score &gt; 4 according to the Acne
+             Scar Severity Scale (0-9).
+
+          -  Are able to read, understand, and sign the Informed Consent.
+
+          -  Are willing and able to comply with all follow-up requirements for a minimum of 8
+             months.
+
+        Exclusion Criteria:
+
+          -  Have had active localized or systemic infections within 6 months of enrollment
+
+          -  Have compromised ability for wound healing, such as: malnutrition, oral steroid use,
+             history of collagen vascular disease (e.g. lupus, scleroderma, history of keloid
+             formation (raised and thickened scars), atrophic dermatitis (extreme skin irritation
+             or itchiness) or immunologic abnormalities such as vitiligo (white patches of skin
+             due to loss of pigment)
+
+          -  Have immunocompromised status (inability to resist infection, etc.)
+
+          -  Have been treated with lasers, chemical procedures, or other cosmetic procedures on
+             the area to be treated within 6 months of enrollment
+
+          -  Have taken Accutane within 12 months of enrollment
+
+          -  Are allergic to lidocaine (skin numbing agent)
+
+          -  Are allergic to Valtrex (an anti-viral medication)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher B Zachary, MBBS, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Irvine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Brian D Zelickson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Dermatology, University of Minnesota, Minneapolis, Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UC Irvine Dermatology Clinical Research Center</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.dermatology.uci.edu/clinical_trials.html</url>
+    <description>University of California, Irvine Department of Dermatology Clinical Research</description>
+  </link>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 13, 2013</lastchanged_date>
+  <firstreceived_date>December 26, 2007</firstreceived_date>
+  <firstreceived_results_date>June 17, 2011</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Irvine</investigator_affiliation>
+    <investigator_full_name>Christopher Zachary</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <keyword>acne vulgaris</keyword>
+  <keyword>scarring</keyword>
+  <keyword>laser</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

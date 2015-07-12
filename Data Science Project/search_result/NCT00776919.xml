@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="98">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00776919</url>
+  </required_header>
+  <id_info>
+    <org_study_id>114677</org_study_id>
+    <secondary_id>W0261-301</secondary_id>
+    <nct_id>NCT00776919</nct_id>
+  </id_info>
+  <brief_title>Trial of Clindamycin / Benzoyl Peroxide Gel in Subjects With Acne</brief_title>
+  <official_title>A Phase 3 Multicenter, Randomized, Double-Blind, Active And Vehicle-Controlled Study Of The Safety And Efficacy Of A Clindamycin / Benzoyl Peroxide Gel Versus Clindamycin Gel Versus Benzoyl Peroxide Gel Versus Vehicle Gel In Subjects With Acne Vulgaris</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stiefel, a GSK Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>RHO CRO</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Quintiles CRO</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Canada: Health Canada</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a   Randomized, Double-Blind, Controlled Study to evaluate the  Safety and Efficacy
+      of a clindamycin / benzoyl peroxide gel in Subjects with Acne Vulgaris
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A multicenter, randomized, double-blind, comparator and vehicle-controlled study in subjects
+      with acne vulgaris. Approximately 1320 subjects will be enrolled. Subjects will be
+      randomized to 1 of 4 parallel study groups in a 1:1:1:1 ratio (clindamycin / benzoyl
+      peroxide gel:clindamycin gel:BPO gel:vehicle gel).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2008</start_date>
+  <completion_date type="Actual">October 2009</completion_date>
+  <primary_completion_date type="Actual">September 2009</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of Participants With Improvement of at Least 2 Grades in the Investigator's Static Global Assessment (ISGA) Score From Baseline to Week 12</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, investigators/assessors evaluated acne severity of the participants' faces using the ISGA scale: 0=clear skin with no lesions (L); 1=almost clear, rare non-inflammatory L; 2=mild, some non-inflammatory L with no more than a few inflammatory L, no nodular L; 3=moderate, many non-inflammatory L, may have some inflammatory L, but no more than 1 small nodular L; 4=severe, many non-inflammatory and inflammatory L, but no more than a few nodular L; 5=very severe, many non-inflammatory and inflammatory L, and more than a few nodular L.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Change From Baseline (BL) to Week 12 in Inflammatory Lesion Counts</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, trained study personnel at every investigational center assessed the inflammatory (pustules [small inflamed elevation of the skin that is filled with pus], papules [solid elevation of skin with no visible fluid], nodules [larger than papules with significant depth]) lesion counts for each participant. Each type of lesion was counted separately, and counts were taken from the face (including forehead, nose, cheeks, and chin). Missing values were imputed using the last observation carried forward (LOCF) method.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Change From Baseline to Week 12 in Non-inflammatory Lesion Counts</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, trained study personnel at every investigational center assessed the non-inflammatory (open comedones [blackheads] and closed comedones [whiteheads]) lesion counts for each participant. Each type of lesion was counted separately, and counts were taken from the face (including forehead, nose, cheeks, and chin).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Change From Baseline to Week 12 in Total Lesion Counts</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, trained study personnel at every investigational center assessed the inflammatory (pustules, papules, nodules) and non-inflammatory (open and closed comedones) lesion counts for each participant. Each type of lesion was counted separately; the lesion counts were taken from the face (including forehead, nose, cheeks, and chin). Total lesion counts were calculated as the sum of the inflammatory and non-inflammatory lesion counts.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean Percent Change From Baseline to Week 12 in Lesion Counts (Total, Inflammatory, and Non-inflammatory)</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, trained study personnel at every investigational center assessed the inflammatory (pustules, papules, nodules) and non-inflammatory (open and closed comedones) lesion counts for each participant. Each type of lesion was counted separately; the lesion counts were taken from the face (including forehead, nose, cheeks, and chin). Total lesion counts were calculated as the sum of the inflammatory and non-inflammatory lesion counts. Percent change from Baseline to Week 12 was calculated as the value at Week 12 minus the value at Baseline divided by the Baseline value * 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Had a Subject Global Assessment (SGA) Score of 0 or 1 at Week 12</measure>
+    <time_frame>Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, participants evaluated their facial acne (excluding the scalp) using the SGA scale: 0=free of acne, with only an occasional blackhead/whitehead; 1=several blackheads/whiteheads and small pimples, no tender deep-seated bumps/cysts; 2=several to many blackheads/whiteheads and small to medium-sized pimples, one deep-seated bump/cyst; 3=many blackheads/whiteheads, many medium- to large-sized pimples, few deep-seated bumps/cysts; 4=presence of blackheads/whiteheads, several to many medium- to large-sized pimples, deep-seated bumps/cysts dominate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Had an ISGA Score of 0 or 1 at Week 12</measure>
+    <time_frame>Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>During each study visit, investigators/assessors evaluated the acne severity of participants' faces using the ISGA scal: 0=clear skin with no lesions (L); 1=almost clear, rare non-inflammatory L; 2=mild, some non-inflammatory L with no more than a few inflammatory L, no nodular L; 3=moderate, many non-inflammatory L, may have some inflammatory L, but no more than 1 small nodular L; 4=severe, many non-inflammatory and inflammatory L, but no more than a few nodular L; 5=very severe, many non-inflammatory and inflammatory L, and more than a few nodular L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline to Week 12 in Systolic and Diastolic Blood Pressure</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Systolic and diastolic blood pressure were measured at Baseline and Week 12 (end of study). Mean change from Baseline was calculated as the mean value at Week 12 minus the mean value at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline to Week 12 in Temperature</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Temperature was measured at Baseline and Week 12 (end of study). Mean change from Baseline was calculated as the mean value at Week 12 minus the mean value at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline to Week 12 in Pulse Rate</measure>
+    <time_frame>Baseline (Day 1) and Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Pulse rate was measured at Baseline and Week 12 (end of study). Mean change from Baseline was calculated as the mean value at Week 12 minus the mean value at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline to Weeks 2, 4, 8, and 12 in Erythema, Dryness, and Peeling</measure>
+    <time_frame>Baseline; Weeks 2, 4, 8, and 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Erythema (Er, redness), dryness (Dr), and peeling (Pn), were evaluated independently by the investigator as: 0 (absent)=no Er, Dr, or Pn; 1 (slight)=faint red/pink coloration (col.), barely perceptible Dr with no flakes or fissure, mild localized Pn; 2 (mild)=light red/pink col., perceptible Dr with no flakes/fissure, mild and diffuse Pn; 3 (moderate)=medium red col., easily noted Dr and flakes but no fissure; 4 (severe)=beet red col., Dr with flakes and fissure, prominent dense Pn. Change from Baseline was calculated as the value at Weeks 2, 4, 8, and 12 minus the the value at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline to Weeks 2, 4, 8, and 12 in Itching and Burning/Stinging</measure>
+    <time_frame>Baseline; Weeks 2, 4, 8, and 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Itching and burning/stinging (piercing pain) were evaluated independently by the investigator as: 0 (none)=normal, no discomfort; 1 (slight)=noticeable discomfort that caused intermittent awareness; 2 (moderate)=noticeable discomfort that caused intermittent awareness and interfered occasionally with normal daily activities; 3 (strong)=definite continuous discomfort that interfered with normal daily activities. Change from Baseline was calculated as the value at Weeks 2, 4, 8, and 12 minus the value at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Duration of Study Product Use</measure>
+    <time_frame>Baseline (Day 1) through Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Mean duration of study product use was calculated as the average total duration inclusive of missed applications of the study product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reporting the Indicated Treatment-emergent Adverse Events (AEs) Resulting in Study Product Discontinuation</measure>
+    <time_frame>Baseline (Day 1) through Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>An AE included, but was not limited to, any clinically significant worsening of a pre-existing condition; an event occurring from overdose (i.e., a dose higher than that indicated in the protocol) of the study product, whether accidental or intentional; an event occurring from abuse (e.g., use for nonstudy reasons) of the study product; or an event that was associated with the discontinuation of the use of the study product.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">1315</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>clindamycin / benzoyl peroxide gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Clindamycin gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>BPO gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>vehicle gel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>clindamycin / benzoyl peroxide gel</intervention_name>
+    <description>Once a day application to the face</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>clindamycin gel</intervention_name>
+    <description>Once a day application to the face</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BPO gel</intervention_name>
+    <description>Once a day application to the face</description>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vehicle gel</intervention_name>
+    <description>Once a day application to the face</description>
+    <arm_group_label>4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Be 12 to 45 years of age, inclusive, and in good general health.
+
+          -  Clinical diagnosis of acne vulgaris
+
+          -  Females of childbearing potential participating in the study must agree to use a
+             medically acceptable method of contraception while receiving protocol-assigned
+             product.
+
+          -  Have the ability and willingness to follow all study procedures, attend all scheduled
+             visits, and successfully complete the study.
+
+          -  Have the ability to understand and sign a written informed consent form, which must
+             be completed prior to study specific tasks being performed. Subjects under the legal
+             age of consent in the state/province/country where the study is conducted must
+             provide assent and have the written informed consent of a parent or guardian.
+
+        Exclusion Criteria:
+
+          -  Are pregnant or breast-feeding.
+
+          -  Have a history or presence of other conditions that may increase the risk of the
+             subject participating in the study and/or affect the evaluated outcomes.
+
+          -  Used topical antibiotics on the face or used systemic antibiotics within the past 2
+             weeks.
+
+          -  Used topical corticosteroids on the face or systemic corticosteroids within the past
+             4 weeks. Use of inhaled, intra-articular, or intra-lesional steroids other than for
+             facial acne is acceptable.
+
+          -  Used systemic retinoids within the past 6 months or topical retinoids within the past
+             6 weeks.
+
+          -  Received treatment with estrogens (including oral, implanted, injected and topical
+             contraceptives), androgens, or anti-androgenic agents for 12 weeks or less
+             immediately prior to starting study product. Subjects who have been treated with
+             estrogens, as described above, androgens, or anti-androgenic agents for more than 12
+             consecutive weeks prior to start of study product are allowed to enroll as long as
+             they do not expect to change dose, drug, or discontinue use during the study.
+
+          -  Used topical anti-acne medications  (eg, BPO, azelaic acid, resorcinol, salicylates,
+             etc.) within the past 2 weeks.
+
+          -  Used abradents or facial procedures, within the past 2 weeks.
+
+          -  Use medications that may exacerbate acne.
+
+          -  Have a known hypersensitivity or have had previous allergic reaction to any of the
+             active components, lincomycin, or excipients of the study product.
+
+          -  Used any investigational therapy within the past 4 weeks, or currently participating
+             in another clinical study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital San Diego, Div. of Pediatric &amp; Adolescents Dermatology</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Laser Institute for Dermatology</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cherry Creek Research, Inc.</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skin Care Research, Inc.</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33486</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Cosmetic Medicine and Research Institute</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FXM Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Dermatology &amp; Vein Research Center, LLC</name>
+      <address>
+        <city>Alpharetta</city>
+        <state>Georgia</state>
+        <zip>30022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SKINQRI</name>
+      <address>
+        <city>Lincolnshire</city>
+        <state>Illinois</state>
+        <zip>60069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dawes Fretzin Clinical Research Group</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DermResearch, PLLC</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset Skin Centre</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48084</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology Associates of Rochester, PC</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DermResearch Center of New York</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11790</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Skin Wellness Center, PC</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37922</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arlington Center for Dermatology</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Clinical Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology and Skin Care Center FXM Research International</name>
+      <address>
+        <city>Belize City</city>
+        <country>Belize</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Moguel's Clinic/FXM Research International</name>
+      <address>
+        <city>Belize City</city>
+        <country>Belize</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guildford Dermatology Specialist</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>V3R6A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatrial Research</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8N 1V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynderm Research, Inc.</name>
+      <address>
+        <city>Markham</city>
+        <state>Ontario</state>
+        <zip>L3P 1A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Bay Dermatology Centre</name>
+      <address>
+        <city>North Bay</city>
+        <state>Ontario</state>
+        <zip>P1B3Z7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRDQ Centre de Recherche Dermatologique du Quebec</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1V 4X7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nexus Clinical Research</name>
+      <address>
+        <city>St. John's</city>
+        <zip>NL A1B 3E1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Belize</country>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2012</verification_date>
+  <lastchanged_date>February 9, 2012</lastchanged_date>
+  <firstreceived_date>October 21, 2008</firstreceived_date>
+  <firstreceived_results_date>December 21, 2011</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Cheri Hudson; Clinical Disclosure Advisor</name_title>
+    <organization>GSK Clinical Disclosure</organization>
+  </responsible_party>
+  <keyword>Acne Vulgaris</keyword>
+  <keyword>Acne</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Benzoyl Peroxide</mesh_term>
+    <mesh_term>Clindamycin</mesh_term>
+    <mesh_term>Clindamycin palmitate</mesh_term>
+    <mesh_term>Clindamycin phosphate</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

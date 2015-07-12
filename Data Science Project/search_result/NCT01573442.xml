@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="398">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01573442</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A221102</org_study_id>
+    <secondary_id>CDR0000730083</secondary_id>
+    <secondary_id>NCI-2012-00719</secondary_id>
+    <secondary_id>U10CA037447</secondary_id>
+    <nct_id>NCT01573442</nct_id>
+  </id_info>
+  <brief_title>Testosterone in Treating Postmenopausal Patients With Arthralgia Caused by Adjuvant Aromatase Inhibitor Treatment</brief_title>
+  <official_title>Randomized Double-Blind Placebo Controlled Study of Subcutaneous Testosterone in the Adjuvant Treatment of Postmenopausal Women With Aromatase Inhibitor Induced Arthralgias</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alliance for Clinical Trials in Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance for Clinical Trials in Oncology</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Testosterone may help relieve moderate or severe arthralgia associated with the
+      use of aromatase inhibitors, such as anastrozole or letrozole.
+
+      PURPOSE: This randomized phase III trial studies testosterone to see how well it works
+      compared to placebo in treating postmenopausal patients with arthralgia caused by
+      anastrozole or letrozole.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OUTLINE:
+
+      This is a multicenter study. Patients are randomized to 1 of 2 treatment arms. Patients
+      receive testosterone transdermally on day 1 and then at 3 months on Arm I. Patients receive
+      placebo transdermally on day 1 and then at 3 months on Arm II. The primary objective of the
+      study is to determine whether testosterone will reduce aromatase inhibitor (AI)-induced
+      arthralgia and associated joint symptoms. The secondary objective of the study is to explore
+      whether testosterone will have an acceptable safety and tolerability profile, with
+      particular reference to androgenic adverse events including acne, hirsutism, and alopecia.
+      After completion of study treatment, patients are followed up for 6 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Supportive Care</study_design>
+  <primary_outcome>
+    <measure>The intra-patient change in joint pain at 3 months from baseline as measured by  the Brief Pain Inventory for aromatase-inhibitor arthralgias (BPI-AIA)</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability of transdermal testosterone assessed using Common Terminology Criteria for Adverse Events (CTCAE) 4.0 and additional questionnaires, including alopecia, acne, and hirsutism as reported by the patient</measure>
+    <time_frame>Up to 6 months post treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The intra-patient change in joint pain and its interference of activity for each month from baseline as measured by BPI-AIA</measure>
+    <time_frame>Up to 6 months post treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The change of hot flashes during the first two months from baseline as measured by hot flash diary</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The change of libido and menopause-specific quality of life from baseline as measured by MENQOL and POMS monthly</measure>
+    <time_frame>Up to 6 months post treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">224</enrollment>
+  <condition>Arthralgia</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Hot Flashes</condition>
+  <condition>Musculoskeletal Complications</condition>
+  <condition>Sexual Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive testosterone transdermally on day 1 and then at 3 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receive placebo  transdermally on day 1 and then at 3 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>therapeutic testosterone</intervention_name>
+    <description>Given transdermally</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Given transdermally</description>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Women who have undergone a total mastectomy or breast-conserving surgery for primary
+             breast cancer +/-chemotherapy and +/-radiotherapy
+
+          -  Receiving anastrozole (1 mg) or letrozole (2.5 mg) orally once a day, for ≥ 21 days
+             prior to registration
+
+          -  Must have BOTH estrogen receptor-positive (ER+) and progesterone receptor-positive
+             (PR+) tumors and BOTH must be ≥ 30% positive
+
+          -  ≥ 5/10 arthralgia (in hands, wrist, knees, or hips) while being treated with
+             anastrozole or letrozole which is felt by the patient to be caused by their aromatase
+             inhibitor, as measured by verbally addressing the following question: &quot;Please rate
+             your pain by picking a number, from 0 to 10 (0 being none and 10 being as bad as you
+             can imagine) that best describes your pain from your aromatase inhibitor breast
+             cancer medication on AVERAGE, over the past week.&quot;
+
+          -  No presence of residual or recurrent cancer (locally or metastatic)
+
+        PATIENT CHARACTERISTICS:
+
+          -  Body Mass Index (BMI) between 18 and 32 kg/m²
+
+          -  Women who are postmenopausal by surgery, radiotherapy, or presence of natural
+             amenorrhea ≥ 12 months
+
+          -  Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) ≤
+             1.5 times upper limit of normal (ULN)
+
+          -  ECOG Performance Status (PS) 0, 1, or 2
+
+          -  Serum creatinine ≤1.5 times ULN
+
+          -  Hemoglobin &gt; 11 g/dL
+
+          -  White blood cell (WBC) &gt; 3,000/mm³
+
+          -  Platelets &gt; 100,000/mm³
+
+          -  Ability to complete questionnaire(s) by themselves or with assistance
+
+          -  Willing to provide informed written consent
+
+          -  Willing to return to an Alliance enrolling institution for follow-up
+
+          -  Willing to provide blood samples for correlative research purposes
+
+          -  No diabetes mellitus or glucose intolerance, defined as a fasting glucose &gt; 125 mg/dL
+
+          -  No history of coronary artery disease (angina or myocardial infarction)
+
+          -  No known hypersensitivity to any component of testosterone
+
+          -  No history of a deep venous thrombosis or a thromboembolism
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  No patients on hormone-replacement therapy (HRT) ≤ 4 weeks before prior to
+             registration
+
+          -  No prolonged systemic corticosteroid treatment, except for topical applications
+             (e.g., for rash), inhaled sprays (e.g., for obstructive airway diseases), eye drops,
+             or local injections (e.g., intra-articular)
+
+               -  Short duration (&lt; 2 weeks) of systemic corticosteroids is allowed (e.g., for
+                  chronic obstructive pulmonary disease), but not within 30 days prior to
+                  registration
+
+          -  Not receiving any other investigational agent
+
+          -  No concurrent use of the aromatase inhibitor exemestane
+
+          -  No concurrent radiation therapy or chemotherapy
+
+          -  No current or planned use of cyclosporine, anticoagulants, oxyphenbutazone, insulin,
+             oral or injectable vitamin D doses over 4,000 IU/day or tamoxifen
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles L. Loprinzi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Palo Alto Medical Foundation-Camino Division</name>
+      <address>
+        <city>El Camino Real Mountain View</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Yu, M.D.</last_name>
+      <phone>(408) 730-2817</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Hospital</name>
+      <address>
+        <city>Fremont</city>
+        <state>California</state>
+        <zip>94538</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vandana Sharma, M.D.</last_name>
+      <phone>510-794-5320</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Armando Giuliano, M.D.</last_name>
+      <phone>310-423-9331</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Palo Alto Medical Foundation</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David S. Leibowitz</last_name>
+      <phone>650-321-4121</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Center of Aurora</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Boulder Community Hospital</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <zip>80301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Penrose-Saint Francis Healthcare</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Cancer Research Program CCOP</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Exempla Saint Joseph Hospital</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Porter Adventist Hospital</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian - Saint Lukes Medical Center - Health One</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rose Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>North Colorado Medical Center</name>
+      <address>
+        <city>Greeley</city>
+        <state>Colorado</state>
+        <zip>80631</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Anthony Hospital</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Littleton Adventist Hospital</name>
+      <address>
+        <city>Littleton</city>
+        <state>Colorado</state>
+        <zip>80122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sky Ridge Medical Center</name>
+      <address>
+        <city>Lone Tree</city>
+        <state>Colorado</state>
+        <zip>80124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Longmont United Hospital</name>
+      <address>
+        <city>Longmont</city>
+        <state>Colorado</state>
+        <zip>80501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McKee Medical Center</name>
+      <address>
+        <city>Loveland</city>
+        <state>Colorado</state>
+        <zip>80539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Parker Adventist Hospital</name>
+      <address>
+        <city>Parker</city>
+        <state>Colorado</state>
+        <zip>80138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary Corwin Medical Center</name>
+      <address>
+        <city>Pueblo</city>
+        <state>Colorado</state>
+        <zip>81004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keren Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Exempla Lutheran Medical Center</name>
+      <address>
+        <city>Wheat Ridge</city>
+        <state>Colorado</state>
+        <zip>80033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Sturtz, M.D.</last_name>
+      <phone>303-777-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeland Regional Cancer Center at Lakeland Regional Medical Center</name>
+      <address>
+        <city>Lakeland</city>
+        <state>Florida</state>
+        <zip>33805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Madhavi L. Venigalla, MD</last_name>
+      <phone>508-368-3168</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>John B. Amos Community Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrew Pippas, MD</last_name>
+      <phone>706-320-8780</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Memorial Hospital</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark F. Kozloff</last_name>
+      <phone>708-339-4800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Porubcin, Michael (UIA Investigator)</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Costas L. Constantinou, MD</last_name>
+      <phone>563-359-9876</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spector, David MD (UIA Investigator)</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Costas Constantinou</last_name>
+      <phone>563-359-9876</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity Medical Center - East</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Costas L. Constantinou, MD</last_name>
+      <phone>309-779-5092</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Franciscan St. Francis Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Reid Hospital &amp; Health Care Services, Incorporated</name>
+      <address>
+        <city>Richmond</city>
+        <state>Indiana</state>
+        <zip>47374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross, MD</last_name>
+      <phone>765-983-3000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Merchant, M.D.</last_name>
+      <phone>515-956-2759</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic, P.C.</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph J. Merchant, MD</last_name>
+      <phone>515-239-4400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Constantinou, Costas L MD (UIA Investigator)</name>
+      <address>
+        <city>Bettendorf</city>
+        <state>Iowa</state>
+        <zip>52722</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Costas Constantinou, M.D.</last_name>
+      <phone>563-359-9876</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cedar Rapids Oncology Association</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debra Wilbur</last_name>
+      <phone>319-363-8303</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deborah Wilbur</last_name>
+      <phone>319-363-8303</phone>
+    </contact>
+    <investigator>
+      <last_name>Deborah Wilbur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Associates at Mercy Medical Center</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deborah Wilbur</last_name>
+      <phone>319-363-8303</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Elizabeth Medical Center South</name>
+      <address>
+        <city>Edgewood</city>
+        <state>Kentucky</state>
+        <zip>41017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Guenther, M.D.</last_name>
+      <phone>859-301-9186</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Elizabeth Fort Thomas</name>
+      <address>
+        <city>Fort Thomas</city>
+        <state>Kentucky</state>
+        <zip>41075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Guenther, M.D.</last_name>
+      <phone>859-301-9186</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation-Baton Rouge</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Cole, M.D.</last_name>
+      <phone>504-842-3261</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Baptist Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Cole, M.D.</last_name>
+      <phone>504-842-3261</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Cole, M.D.</last_name>
+      <phone>504-842-3261</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Maine Comprehensive Cancer Center at Central Maine Medical Center</name>
+      <address>
+        <city>Lewiston</city>
+        <state>Maine</state>
+        <zip>04240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicholette Erickson, MD</last_name>
+      <phone>207-795-2440</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bixby Medical Center</name>
+      <address>
+        <city>Adrian</city>
+        <state>Michigan</state>
+        <zip>49221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers - Adrian</name>
+      <address>
+        <city>Adrian</city>
+        <state>Michigan</state>
+        <zip>49221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Escanaba</name>
+      <address>
+        <city>Escanaba</city>
+        <state>Michigan</state>
+        <zip>49431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+    <investigator>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Iron Mountain</name>
+      <address>
+        <city>Iron Mountain</city>
+        <state>Michigan</state>
+        <zip>49801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Memorial Hospital - Monroe</name>
+      <address>
+        <city>Monroe</city>
+        <state>Michigan</state>
+        <zip>48162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex B. Mowat</last_name>
+      <phone>734-240-8400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers - Monroe</name>
+      <address>
+        <city>Monroe</city>
+        <state>Michigan</state>
+        <zip>48162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital - Royal Oak Campus</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael J. Stender, MD</last_name>
+      <phone>248-551-6911</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital - Troy</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Stender, M.D.</last_name>
+      <phone>248-551-6911</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Health Systems-Mankato</name>
+      <address>
+        <city>Mankato</city>
+        <state>Minnesota</state>
+        <zip>56002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohmmad Ranginwala</last_name>
+      <phone>507-345-2929</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Loprinzi, M.D.</last_name>
+      <phone>507-284-4849</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebecca Aft, M.D.</last_name>
+      <phone>314-747-0063</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59107-7000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Frontier Cancer Center and Blood Institutes - Billings</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Montana Cancer Consortium CCOP</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Healthcare</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Deaconess Cancer Center</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello, MD</last_name>
+      <phone>406-238-6290</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Deaconess Hospital</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello, MD</last_name>
+      <phone>406-585-5000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint James Community Hospital and Cancer Treatment Center</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Benefis Healthcare - Sletten Cancer Institute</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Peter's Community Hospital</name>
+      <address>
+        <city>Helena</city>
+        <state>Montana</state>
+        <zip>59601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kalispell Medical Oncology at KRMC</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello, MD</last_name>
+      <phone>406-238-6290</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Montana Cancer Specialists</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Patrick Hospital - Community Hospital</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nevada Cancer Research Foundation CCOP</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Ellerton</last_name>
+      <phone>702-383-7336</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center of Southern Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Ellerton</last_name>
+      <phone>702-383-7336</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New Hampshire Oncology - Hematology, PA at Payson Center for Cancer Care</name>
+      <address>
+        <city>Concord</city>
+        <state>New Hampshire</state>
+        <zip>03301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederick M. Briccetti, MD</last_name>
+      <phone>603-224-2556</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New Hampshire Oncology - Hematology, PA - Hooksett</name>
+      <address>
+        <city>Hooksett</city>
+        <state>New Hampshire</state>
+        <zip>03106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederick M. Briccetti, MD</last_name>
+      <phone>603-224-2556</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>LRGHealthcare-Lakes Region General Hospital</name>
+      <address>
+        <city>Laconia</city>
+        <state>New Hampshire</state>
+        <zip>03246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederick Briccetti, M.D.</last_name>
+      <phone>603-552-9170</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Englewood Hospital and Medical Center</name>
+      <address>
+        <city>Englewood</city>
+        <state>New Jersey</state>
+        <zip>07631</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jill Morrison, M.D.</last_name>
+      <phone>201-568-5250</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Glens Falls Hospital</name>
+      <address>
+        <city>Glen Falls</city>
+        <state>New York</state>
+        <zip>12801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Pillemer, M.D.</last_name>
+      <phone>518-926-6620</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alamance Cancer Center at Alamance Regional Medical Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>North Carolina</state>
+        <zip>27216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timothy J. Finnegan</last_name>
+      <phone>336-538-7725</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Hospital</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Justin Favaro, M.D.</last_name>
+      <phone>704-342-1900</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Memorial Hospital</name>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Atkins, M.D.</last_name>
+      <phone>919-580-0000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Memorial Hospital, Incorporated</name>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James N. Atkins, MD</last_name>
+      <phone>919-580-0000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kinston Medical Specialists</name>
+      <address>
+        <city>Kinston</city>
+        <state>North Carolina</state>
+        <zip>28501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter R. Watson, MD</last_name>
+      <phone>252-559-2200</phone>
+      <phone_ext>201</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Altru Cancer Center at Altru Hospital</name>
+      <address>
+        <city>Grand Forks</city>
+        <state>North Dakota</state>
+        <zip>58201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trails Office - Altru Cancer Center at Altru Hospital</last_name>
+      <phone>701-780-6520</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity CancerCare Center</name>
+      <address>
+        <city>Minot</city>
+        <state>North Dakota</state>
+        <zip>58701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen N.C. Makoni</last_name>
+      <phone>701-857-3535</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers - Bowling Green</name>
+      <address>
+        <city>Bowling Green</city>
+        <state>Ohio</state>
+        <zip>43402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bethesda North Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ching Ho</last_name>
+      <phone>513-745-1111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital - Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ching Ho, M.D.</last_name>
+      <phone>513-891-1200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton CCOP</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+    <investigator>
+      <last_name>Howard M. Gross</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross, MD</last_name>
+      <phone>937-832-1093</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Grandview Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Valley Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan North Health Center</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Community Health Partners Regional Medical Center - Mercy Cancer Center</name>
+      <address>
+        <city>Elyria</city>
+        <state>Ohio</state>
+        <zip>44035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Center Incorporated</name>
+      <address>
+        <city>Elyria</city>
+        <state>Ohio</state>
+        <zip>44035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat, M.D.</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Blanchard Valley Hospital</name>
+      <address>
+        <city>Findlay</city>
+        <state>Ohio</state>
+        <zip>45840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atrium Medical Center-Middletown Regional Hospital</name>
+      <address>
+        <city>Franklin</city>
+        <state>Ohio</state>
+        <zip>45005-1066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+    <investigator>
+      <last_name>Howard M. Gross</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Hospital</name>
+      <address>
+        <city>Greenville</city>
+        <state>Ohio</state>
+        <zip>45331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Gross, MD</last_name>
+      <phone>937-832-1093</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kettering Medical Center</name>
+      <address>
+        <city>Kettering</city>
+        <state>Ohio</state>
+        <zip>45429</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1364</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lima Memorial Hospital</name>
+      <address>
+        <city>Lima</city>
+        <state>Ohio</state>
+        <zip>45804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex B. Mowat</last_name>
+      <phone>419-228-3335</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancers Centers - Maumee</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Radiation Oncology at Northwest Ohio Oncology Center</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Charles Hospital</name>
+      <address>
+        <city>Oregon</city>
+        <state>Ohio</state>
+        <zip>43616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers - Oregon</name>
+      <address>
+        <city>Oregon</city>
+        <state>Ohio</state>
+        <zip>43616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Flower Hospital</name>
+      <address>
+        <city>Sylvania</city>
+        <state>Ohio</state>
+        <zip>43560</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat, M.D.</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Cancer Center - Saint Anne Mercy Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Mercy Medical Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Toledo Hospital/Toledo Children's Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers - Toledo</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Community Hospital Oncology Program CCOP</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Toledo</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Upper Valley Medical Center</name>
+      <address>
+        <city>Troy</city>
+        <state>Ohio</state>
+        <zip>45373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1364</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fulton County Health Center</name>
+      <address>
+        <city>Wauseon</city>
+        <state>Ohio</state>
+        <zip>43567</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greene Memorial Hospital</name>
+      <address>
+        <city>Xenia</city>
+        <state>Ohio</state>
+        <zip>45385</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard Gross</last_name>
+      <phone>937-775-1353</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Cancer Institute at Geisinger Health</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Geisinger Cancer Institute</last_name>
+      <phone>570-271-5251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Susquehanna Cancer Center at Divine Providence Hospital</name>
+      <address>
+        <city>Williamsport</city>
+        <state>Pennsylvania</state>
+        <zip>17701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Warren L. Robinson, Jr.</last_name>
+      <phone>570-326-8000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas - Easley</name>
+      <address>
+        <city>Easley</city>
+        <state>South Carolina</state>
+        <zip>29640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Giguere, M.D.</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of The Carolinas</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Giguere, M.D.</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas - Faris Road</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey K. Giguere, MD, FACP</last_name>
+      <phone>864-987-7000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas - Grove Commons</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Giguere, M.D.</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Cancer Center of the Carolinas (CCOP)</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Giguere, M.D.</last_name>
+      <phone>864-522-3065</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Memorial Hospital</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debbi Nunn</last_name>
+      <phone>864-522-3065</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas-Greer Medical Oncology</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Giguere, M.D.</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas - Seneca</name>
+      <address>
+        <city>Seneca</city>
+        <state>South Carolina</state>
+        <zip>29672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey K. Giguere, MD, FACP</last_name>
+      <phone>864-987-7000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas - Spartanburg</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey K. Giguere, MD, FACP</last_name>
+      <phone>864-987-7000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wellmont Medical Associates-Oncology and Hematology</name>
+      <address>
+        <city>Bristol</city>
+        <state>Tennessee</state>
+        <zip>37620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Asheesh Shipstone, M.D.</last_name>
+      <phone>423-578-8538</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wellmont Holston Valley Hospital and Medical Center</name>
+      <address>
+        <city>Kingsport</city>
+        <state>Tennessee</state>
+        <zip>37660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Asheesh Shipstone</last_name>
+      <phone>423-578-8538</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee - Knoxville</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timothy Panella, M.D.</last_name>
+      <phone>865-305-8780</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Meharry Medical College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin Palka, M.D.</last_name>
+      <phone>615-327-6277</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nashville Breast Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin T. Palka</last_name>
+      <phone>615-284-8229</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Doctor's Hospital of Laredo</name>
+      <address>
+        <city>Laredo</city>
+        <state>Texas</state>
+        <zip>78045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gary W. Unzeitig, MD</last_name>
+      <phone>956-726-3691</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology and Hematology Associates of North Virginia - Fairfax</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary J. Wilkinson</last_name>
+      <phone>703-207-0733</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fredericksburg Oncology Inc.</name>
+      <address>
+        <city>Fredericksburg</city>
+        <state>Virginia</state>
+        <zip>22401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rex Mowat</last_name>
+      <phone>517-263-2507</phone>
+    </contact>
+    <investigator>
+      <last_name>Rex Mowat</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital Of Martinsville</name>
+      <address>
+        <city>Martinsville</city>
+        <state>Virginia</state>
+        <zip>24115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sreedhar Katragadda, M.D.</last_name>
+      <phone>276-666-7827</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest VA Regional Cancer Center</name>
+      <address>
+        <city>Norton</city>
+        <state>Virginia</state>
+        <zip>24273</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Asheesh Shipstone</last_name>
+      <phone>423-578-8538</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic Cancer Center at Sacred Heart</name>
+      <address>
+        <city>Eau Claire</city>
+        <state>Wisconsin</state>
+        <zip>54701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology at Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301-3526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology Limited at Saint Mary's Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony Jaslowski, M.D.</last_name>
+      <phone>920-884-3135</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gundersen Lutheran Health System/CCOP</name>
+      <address>
+        <city>La Crosse</city>
+        <state>Wisconsin</state>
+        <zip>54601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Ojelabi, M.D.</last_name>
+      <phone>608-782-7300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dean Hematology and Oncology Clinic</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53717</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amit Sanyal, M.D.</last_name>
+      <phone>608-410-2800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Family Memorial Hospital</name>
+      <address>
+        <city>Manitowoc</city>
+        <state>Wisconsin</state>
+        <zip>54221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bay Area Medical Center</name>
+      <address>
+        <city>Marinette</city>
+        <state>Wisconsin</state>
+        <zip>54143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+    <investigator>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic-Minocqua Center</name>
+      <address>
+        <city>Minocqua</city>
+        <state>Wisconsin</state>
+        <zip>54548</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Oconto Falls</name>
+      <address>
+        <city>Oconto Falls</city>
+        <state>Wisconsin</state>
+        <zip>54154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic at James Beck Cancer Center</name>
+      <address>
+        <city>Rhinelander</city>
+        <state>Wisconsin</state>
+        <zip>54501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic-Rice Lake Center</name>
+      <address>
+        <city>Rice Lake</city>
+        <state>Wisconsin</state>
+        <zip>54868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Nicholas Hospital</name>
+      <address>
+        <city>Sheboygan</city>
+        <state>Wisconsin</state>
+        <zip>53081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony Jaslowski, M.D.</last_name>
+      <phone>920-884-3135</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic - Wisconsin Rapids Center</name>
+      <address>
+        <city>South Wisconsin Rapids</city>
+        <state>Wisconsin</state>
+        <zip>54494</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>(715) 393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic Cancer Care at Saint Michael's Hospital</name>
+      <address>
+        <city>Stevens Point</city>
+        <state>Wisconsin</state>
+        <zip>54481</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Sturgeon Bay</name>
+      <address>
+        <city>Sturgeon Bay</city>
+        <state>Wisconsin</state>
+        <zip>54235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony J. Jaslowski</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic-Wausau Center</name>
+      <address>
+        <city>Wausau</city>
+        <state>Wisconsin</state>
+        <zip>54401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic - Weston Center</name>
+      <address>
+        <city>Weston</city>
+        <state>Wisconsin</state>
+        <zip>54476</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rezwan Islam, M.D.</last_name>
+      <phone>715-393-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Oncology</name>
+      <address>
+        <city>Casper</city>
+        <state>Wyoming</state>
+        <zip>82609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello, MD</last_name>
+      <phone>406-238-6290</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Welch Cancer Center</name>
+      <address>
+        <city>Sheridan</city>
+        <state>Wyoming</state>
+        <zip>82801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin T. Marchello</last_name>
+      <phone>610-402-2273</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 29, 2013</lastchanged_date>
+  <firstreceived_date>April 6, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hot flashes</keyword>
+  <keyword>musculoskeletal complications</keyword>
+  <keyword>sexual dysfunction</keyword>
+  <keyword>estrogen receptor-positive breast cancer</keyword>
+  <keyword>progesterone receptor-positive breast cancer</keyword>
+  <keyword>arthralgia</keyword>
+  <keyword>stage IA breast cancer</keyword>
+  <keyword>stage IB breast cancer</keyword>
+  <keyword>stage II breast cancer</keyword>
+  <keyword>stage IIIA breast cancer</keyword>
+  <keyword>stage IIIB breast cancer</keyword>
+  <keyword>stage IIIC breast cancer</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthralgia</mesh_term>
+    <mesh_term>Hot Flashes</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aromatase Inhibitors</mesh_term>
+    <mesh_term>Methyltestosterone</mesh_term>
+    <mesh_term>Testosterone</mesh_term>
+    <mesh_term>Testosterone 17 beta-cypionate</mesh_term>
+    <mesh_term>Testosterone enanthate</mesh_term>
+    <mesh_term>Testosterone undecanoate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02219776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P.Acne Study</org_study_id>
+    <nct_id>NCT02219776</nct_id>
+  </id_info>
+  <brief_title>Decreasing Infection In Arthroscopic Shoulder Surgery</brief_title>
+  <official_title>Decreasing Proprionbacterium Acne Skin Colonization Prior to Arthroscopic Shoulder Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McLaren Health Care</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McLaren Health Care</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Despite the use of a standard preoperative skin disinfectant prior to shoulder surgery
+      propionibacterium acne remains a leading cause of post-operative infections.  The purpose of
+      this study is to evaluate effectiveness of topical benzoyl peroxide as an adjuvant to
+      chlorhexidine-impregnated skin preparation in attempting to lower the colonization
+      propionibacterium acne prior to surgery.  This study will take cultures from patients who
+      are randomly assigned into groups that receive and do not receive benzoyl peroxide as
+      additional skin prep prior to elective shoulder surgery and compare quantified culture
+      results.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>October 2014</start_date>
+  <primary_completion_date type="Anticipated">May 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Bacterial Growth</measure>
+    <time_frame>14 days from culture</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skin swabs and biopsy will be cultured for 14 days in media specific for growing P.Acne</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>P. Acne</condition>
+  <condition>Infection</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Benzoyl Peroxide solution</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+        Elective arthroscopic shoulder surgery Ages &gt; 12 Male and Female
+
+        Exclusion criteria:
+
+          1. Active infection
+
+          2. Open shoulder surgery
+
+          3. History of prior shoulder infection
+
+          4. Current use of antibiotic medications
+
+          5. History of immunosuppression
+
+          6. Open wounds
+
+          7. Inflammatory Arthritis
+
+          8. Allergy to Benzoyl Peroxide
+
+          9. Allergy to Chlorhexidine
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Landon R Fine, DO</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McLaren Greater Lansing</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Landon R Fine, DO</last_name>
+    <phone>3038849611</phone>
+    <email>landonfine@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>McLaren Greater Lansing</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>28910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2014</verification_date>
+  <lastchanged_date>August 18, 2014</lastchanged_date>
+  <firstreceived_date>August 16, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Infection,</keyword>
+  <keyword>P.Acne,</keyword>
+  <keyword>Shoulder,</keyword>
+  <keyword>skin preparation</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Benzoyl Peroxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

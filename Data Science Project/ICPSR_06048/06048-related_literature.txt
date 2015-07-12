@@ -1,0 +1,100 @@
+Bibliography
+National Health Interview Survey, 1989:  Diabetes Supplement
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 6048. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2015-07-06.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Anonymous, "Cigarette Smoking Among Women of Reproductive Age--United
+States, 1987-1992." Morbidity and Mortality Weekly Report. Nov 4, 1994, 43,
+(43), 789 -.
+
+2. Anonymous, "Cigarette smoking among women of reproductive age--United
+States, 1987-1992." JAMA, The Journal of the American Medical Association.
+Dec 7, 1994, 272, (21), 1649 - 1650.
+
+3. Brechner, Ross J.; Cowie, Catherine C.; Howie, L. Jean; Herman, William
+H.; Will, Julie C.; Harris, Maureen I., "Ophthalmic Examination Among
+Adults With Diagnosed Diabetes Mellitus." JAMA, The Journal of the American
+Medical Association. Oct 13, 1993, 270, (14), 1714 - 1718. DOI:
+10.1001/jama.270.14.1714
+
+4. Coonrod, B.A.; Harris, M.I.; Betschart, J., "Frequency and determinants
+of diabetes patient education among adults in the U.S. population."
+Diabetes Care. Aug 1994, 17, (8), 852 - 858. DOI: 10.2337/diacare.17.8.852
+
+5. Cowie, Catherine C.; Harris, Maureen I., "Ambulatory Medical Care for
+Non-Hispanic Whites, African-Americans, and Mexican-Americans With NIDDM in
+the U.S.." Diabetes Care. Feb 1997, 20, (2), 142 - 147. DOI:
+10.2337/diacare.20.2.142
+
+6. Durazo-Arvizu, Ramsn; Cooper, Richard S.; Luke, Amy; Prewitt, T. Elaine;
+Liao, Youlian; McGee, Daniel L., "Relative Weight and Mortality in U.S.
+Blacks and Whites: Findings from Representative National Population
+Samples." Annals of Epidemiology. Aug 1997, 7, (6), 383 - 395. DOI:
+10.1016/S1047-2797(97)00044-6
+
+7. Engelgau, Michael M.; Geiss, Linda S.; Manninen, Diane L.; Orians,
+Carlyn E.; Wagner, E.H.; Friedman, N.M.; Hurley, J.S.; Trinkaus, K.M.;
+Shatin, D.; Van Vorst, K.A., "Use of services by diabetes patients in
+managed care organizations: Development of a diabetes surveillance system."
+Diabetes Care. Dec 1998, 21, (12), 2062 - 2068. DOI:
+10.2337/diacare.21.12.2062
+
+8. Engelgau, Michael M.; Narayan, K.M. Venkat; Thompson, Theodore J.;
+Boyle, James P.; Williamson, D.F.; Manninen, D.L.; Dong, F.B.; Orians,
+C.E.; Dasbach, E.J.; Teutsch, S.M.; Eastman, R.; Herman, W.H.; Songer,
+T.J., "The cost-effectiveness of screening for type 2 diabetes." JAMA, The
+Journal of the American Medical Association. Nov 25, 1998, 280, (20), 1757
+- 1763.
+
+9. Geiss, Linda S.; Herman, W.H.; Goldschmid, M.G.; DeStefano, F.;
+Eberhardt, M.S.; Ford, E.S.; German, R.R.; Newman, J.M.; Olson, D.R.; Sepe,
+S.J., "Surveillance for diabetes mellitus--United States, 1980-1989."
+Morbidity and Mortality Weekly Report. Jun 4, 1993, 42, (2), 1 - 20.
+
+10. Gronniger, Jerome Timothy, "A Semiparametric Analysis of the
+Relationship of Body Mass Index to Mortality." American Journal of Public
+Health. Jan 2006, 96, (1), 173 - 178. DOI: 10.2105/AJPH.2004.045823
+
+11. Harris, M.; Eastman, R.; Cowie, C., "Symptoms of sensory neuropathy in
+adults with NIDDM in the U.S. population." Diabetes Care. Nov 1993, 16,
+(11), 1446 - 1452. DOI: 10.2337/diacare.16.11.1446
+
+12. Harris, M.I.; Cowie, C.C.; Howie, L.J., "Self-monitoring of blood
+glucose by adults with diabetes in the United States population." Diabetes
+Care. 1993, 16, 1116 - 1123. DOI: 10.2337/diacare.16.8.1116
+
+13. Kahn, Matthew E., "Health and labor market performance: The case of
+diabetes." Journal of Labor Economics. Oct 1998, 16, (4), 878 - 899. DOI:
+10.1086/209909
+
+14. National Diabetes Data Group, Diabetes in America. Washington, DC:
+National Institutes of Health and National Institute of Diabetes and
+Digestive and Kidney Disease, 1995.
+
+15. National Diabetes Data Group, Diabetes in America, 2nd Edition.
+Bethesda, MD: National Institutes of Health, 1995.
+
+16. Ng, Ying Chu; Jacobs, Philip; Johnson, J.A., "Productivity losses
+associated with diabetes in the U.S.." Diabetes Care. Feb 2001, 24, (2),
+257 -. DOI: 10.2337/diacare.24.2.257
+
+17. Ray, Nancy Fox; Thamer, Mae; Gardner, Eric; Chan, Julien K., "Economic
+consequences of diabetes mellitus in the U.S. in 1997." Diabetes Care. Feb
+1998, 21, (2), 296 -.
+
+18. Songer, T.J., "Disability in diabetes." In National Diabetes Data
+Group, Diabetes in America, 2nd Edition. 259 - 282, Bethesda, MD: National
+Institutes of Health,1995.
+
+19. Sonnenberg, Amnon; Everhart, James E., "The prevalence of self-reported
+peptic ulcer in the United States." American Journal of Public Health. Feb
+1996, 86, (2), 200 - 205. DOI: 10.2105/AJPH.86.2.200

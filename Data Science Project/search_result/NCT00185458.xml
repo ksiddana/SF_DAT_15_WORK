@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="367">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00185458</url>
+  </required_header>
+  <id_info>
+    <org_study_id>90660</org_study_id>
+    <secondary_id>300400</secondary_id>
+    <nct_id>NCT00185458</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Transfer of Using Levonorgestrel Intrauterine System (LNG IUS) as a Contraceptive to Using it as Part of Hormone Replacement Therapy (HRT).</brief_title>
+  <official_title>A 60-month Non-comparative Study on Bleeding Profiles With Levonorgestrel Intrauterine System in Transition From Reproductive Age Contraception to Menopause Age Endometrial Protection During Estrogen Replacement Therapy.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <authority>Finland: Finnish Medicines Agency</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study has been designed to look at the transfer from using LNG IUS for contraception
+      only, in reproductive age to using it for endometrial protection in menopausal age. The main
+      area of interest in the study is the pattern of any vaginal bleeding that occurs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study has previously been posted by Schering AG, Germany. Schering AG, Germany has been
+      renamed to Bayer HealthCare AG, Germany. Bayer HealthCare AG, Germany is the sponsor of the
+      trial.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2000</start_date>
+  <completion_date type="Actual">May 2008</completion_date>
+  <primary_completion_date type="Actual">May 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of Bleeding Days</measure>
+    <time_frame>Last 90 days in Contraception Phase and first 360 days in Hormone-Replacement Therapy (HRT) Phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured by using Subject Diaries (Subject Reported Data)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Spotting Days</measure>
+    <time_frame>Last 90 days in Contraception Phase and first 360 days in HRT Phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured by using Subject Diaries (Subject Reported Data)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Successful Treatment</measure>
+    <time_frame>Last 90 days in Contraception Phase and first 360 days in HRT Phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Definition of successful treatment:
+Completion of HRT phase, and
+Both, the number of bleeding days and the number of spotting days during HRT was equal to or less than during contraceptive phase, and
+The number of bleeding days and the number of spotting days could be calculated for at least 3 out of the first 4 reference periods in HRT</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of QOL as Measured by Women's Health Questionnaire</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Women's Health Questionnaire (Total Score). For the Total score, the minimum is 36 and maximum is 144.  A higher score means the distress and dysfunction are less pronounced.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuation Rates</measure>
+    <time_frame>At entry, at 2 years, at 4 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of subjects continuing in the study at the given time points.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 1: Headache (as Measured by a Visual Analogue Scale (VAS))</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 2: Depressive Mood (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 3: Acne or Greasy Skin (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 4: Nausea (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 5: Edema (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 6: Decreased Libido (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 1: Hot Flushes (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 2: Sweating Episodes (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 3: Vaginal Dryness (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 4: Sleep Problems (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 5: Irritability (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Climacteric Symptom 6: Breast Tension (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 7: Hair Loss (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progestogenic Symptom 8: Greasy Hair (as Measured by a VAS)</measure>
+    <time_frame>Last measurement before start of HRT phase, 6 months after start of HRT phase, 12 month after start of HRT phase</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher value means the symptom is more pronounced. Minimum is 0, maximum is 100.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">394</enrollment>
+  <condition>Menopause</condition>
+  <arm_group>
+    <arm_group_label>LNG IUS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Levonorgestrel Intrauterine System (LNG IUS) (initial in vitro release 20 µg/24h) intrauterine for minimum of 9 months and maximum of 60 months - 2 phases: a) Contraception Phase b) Hormone-Replacement Therapy (HRT) Phase. For outcome measures (vaginal bleeding variables), five 90-day Reference Periods were defined, which were used for comparison during statistical analysis: Reference Period -1 in Contraception Phase; Reference Periods 1-4 in HRT Phase. 90-day reference periods for analyzing vaginal bleeding data are defined by World Health Organization (WHO) guideline. Reference Period -1 is the last 90-day reference period that the subject had before starting the HRT. Reference Period 1 covers the first 90-days of the HRT phase, Reference Period 2 covers days 91 to 180, Reference Period 3 days 181 to 270, and Reference Period 4 days 271 to 360 of the HRT phase.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LNG IUS</intervention_name>
+    <description>LNG IUS (initial in vitro release 20 µg/24h) intrauterine for minimum of 9 months and maximum of 60 months - 2 phases: a) Contraception Phase b) HRT Phase. For outcome measures (vaginal bleeding variables), five 90-day Reference Periods were defined, which were used for comparison during statistical analysis: Reference Period -1 in Contraception Phase; Reference Periods 1-4 in HRT Phase. 90-day reference periods for analyzing vaginal bleeding data are defined by WHO guideline. Reference Period -1 is the last 90-day reference period that the subject had before starting the HRT. Reference Period 1 covers the first 90-days of the HRT phase, Reference Period 2 covers days 91 to 180, Reference Period 3 days 181 to 270, and Reference Period 4 days 271 to 360 of the HRT phase.</description>
+    <arm_group_label>LNG IUS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Women with intact uterus, regular menstrual cycles and no previous or current
+             climacteric symptoms.
+
+        Exclusion Criteria:
+
+          -  Pregnancy or lactation.
+
+          -  Previous pelvic infections.
+
+          -  Abnormal bleeding.
+
+          -  Abnormal uterine cavity.
+
+          -  Uterine polyps.
+
+          -  Genital cancer.
+
+          -  Liver diseases.
+
+          -  Alcoholism or drug abuse.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>46 Years</minimum_age>
+    <maximum_age>51 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bayer Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Bayer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>HUY</city>
+        <zip>4500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Espoo</city>
+        <zip>02100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Turku</city>
+        <zip>20100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heerlen</city>
+        <zip>6419 PC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Venlo</city>
+        <zip>5912 BL</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zaandam</city>
+        <zip>1502 DV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Zwijndrecht</city>
+        <zip>3331 LZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cambridge</city>
+        <state>Cambridgeshire</state>
+        <zip>CB23 2TN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Poole</city>
+        <state>Dorset</state>
+        <zip>BH15 2JB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE4 6BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Finland</country>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/cder/drug/DrugSafety/DrugIndex.htm</url>
+    <description>Click here and search for drug information provided by the FDA.</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/medwatch/safety.htm</url>
+    <description>Click here and search for information on any recalls, market or product safety alerts by the FDA which might have occurred with this product.</description>
+  </link>
+  <results_reference>
+    <citation>Depypere HT, Hillard T, Erkkola R, Lukkari-Lax E, Kunz M, Rautiainen P, Schram JH. A 60-month non-comparative study on bleeding profiles with the levonorgestrel intrauterine system from the late transition period to estrogen supplemented menopause. Eur J Obstet Gynecol Reprod Biol. 2010 Dec;153(2):176-80. doi: 10.1016/j.ejogrb.2010.08.017.</citation>
+    <PMID>20888118</PMID>
+  </results_reference>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 5, 2013</lastchanged_date>
+  <firstreceived_date>September 13, 2005</firstreceived_date>
+  <firstreceived_results_date>July 23, 2009</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Levonorgestrel</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

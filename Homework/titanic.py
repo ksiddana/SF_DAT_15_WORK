@@ -69,7 +69,7 @@ X = titanic_data[features]
 # scatter plot using Matplotlib
 plt.scatter(X.Age, y)
 plt.plot(X.Age, y, color='red')
-sns.lmplot(x='Age', y='Survived', data=titanic_data, ci=None, markers='o')
+sns.lmplot(x='Age', y='Survived', data=titanic_data, ci=None)
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)

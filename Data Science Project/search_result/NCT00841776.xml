@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="19">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00841776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DTG0703</org_study_id>
+    <nct_id>NCT00841776</nct_id>
+  </id_info>
+  <brief_title>Comparative Antimicrobial Efficacy of Two Topical Acne Therapies for the Treatment of Facial Acne</brief_title>
+  <official_title>Comparative Antimicrobial Efficacy of Two Topical Acne Therapies for the Treatment of Moderate to Moderately Severe Facial Acne Vulgaris</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stiefel, a GSK Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Canada: Ethics Review Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to determine the development of microbial resistance when using
+      one of two topical acne therapies for the treatment of  facial acne vulgaris.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To investigate the development of microbial resistance when using one of two topical acne
+      therapies for the treatment of moderate to moderately severe facial acne vulgaris. Clinical
+      efficacy and tolerability will be assessed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2007</start_date>
+  <completion_date type="Actual">January 2009</completion_date>
+  <primary_completion_date type="Actual">November 2008</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Median Change in Total Propionibacterium Acne (P.Acne) Counts</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, &amp; 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median change in total colony forming units of propionibacterium acne (P.acne) will be counted.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median Change in Clindamycin Resistant P. Acne.</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median change in total colony forming units of clindamycin resistant p. acne.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Change in Erythromycin-resistant P. Acne Counts</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, and 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total colony forming units of erythromycin-resistant p. acnes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Change in Total Acne Lesions</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, and 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median Change in Total Acne Lesions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Change in Inflammatory Acne Lesion Counts</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, and 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median Change in Inflammatory Acne Lesion Counts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Change in Noninflammaotry Acne Counts</measure>
+    <time_frame>Baseline, Weeks 2, 4, 8, 12, and 16</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median Change in Noninflammaotry Acne Counts</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">54</enrollment>
+  <condition>Acne</condition>
+  <arm_group>
+    <arm_group_label>Duac gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Clindamycin and benzoyl peroxide gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ziana gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Clindamycin and tretinoin gel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Duac</intervention_name>
+    <description>Clindamycon and benzoyl peroxide topical gel once a day for 12 weeks</description>
+    <arm_group_label>Duac gel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ziana gel</intervention_name>
+    <description>Clindamycin and tretinoin gel once a day for 12 weeks.</description>
+    <arm_group_label>Ziana gel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Outpatient at least 12 years of age. Female subjects of childbearing potential must
+             have a negative urine pregnancy test result at baseline and practice a reliable
+             method of contraception throughout the study.
+
+          -  Mild to moderate facial acne vulgaris
+
+          -  Able to understand the requirements of the study and sign informed consent/HIPAA
+             authorization forms. Subjects under the legal age of consent in the state where the
+             study is conducted must also have the written, informed consent of a parent or legal
+             guardian.
+
+        Exclusion Criteria:
+
+          -  Female subjects who are pregnant (positive urine pregnancy test), breast feeding or
+             who are of childbearing potential and not practicing a reliable method of birth
+             control
+
+          -  Allergy or sensitivity to any component of the test medication
+
+          -  Known hypersensitivity to to any component of the investigational formulations
+
+          -  Known history of enteritis (regional enteritis, ulcerative colitis, pseudomembranous
+             colitis, or antibiotic-associated colitis
+
+          -  Beards or sideburns
+
+          -  Skin disease/disorder that might interfere with the diagnosis or evaluation of acne
+             vulgaris
+
+          -  Evidence of recent alcohol or drug abuse
+
+          -  Participation in an investigational drug study within 30 days of the baseline visit
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dermatology Specialists, PSC</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skin We Care Dermatology</name>
+      <address>
+        <city>Mason</city>
+        <state>Ohio</state>
+        <zip>45040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Jackson JM, Fu JJ, Almekinder JL. A randomized, investigator-blinded trial to assess the antimicrobial efficacy of a benzoyl peroxide 5%/ clindamycin phosphate 1% gel compared with a clindamycin phosphate 1.2%/tretinoin 0.025% gel in the topical treatment of acne vulgaris. J Drugs Dermatol. 2010 Feb;9(2):131-6.</citation>
+    <PMID>20214175</PMID>
+  </results_reference>
+  <verification_date>July 2011</verification_date>
+  <lastchanged_date>July 12, 2011</lastchanged_date>
+  <firstreceived_date>February 10, 2009</firstreceived_date>
+  <firstreceived_results_date>April 7, 2010</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Cheri A. Hudson; Clinical Disclosure Advisor</name_title>
+    <organization>GSK Clinical Disclosure</organization>
+  </responsible_party>
+  <keyword>Acne Vulgaris</keyword>
+  <keyword>Acne</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anti-Infective Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

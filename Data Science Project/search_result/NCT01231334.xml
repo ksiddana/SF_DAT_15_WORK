@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="187">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01231334</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MA-ACZ1001</org_study_id>
+    <nct_id>NCT01231334</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing Aczone® Plus Differin® Versus Duac® Plus Differin® in Patients With Severe Facial Acne</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Allergan</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Allergan</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study comparing the topical application of Aczone® plus Differin® versus Duac® plus
+      Differin® in patients with severe facial acne (facial acne vulgaris).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2010</start_date>
+  <completion_date type="Actual">June 2011</completion_date>
+  <primary_completion_date type="Actual">June 2011</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Percentage of Participants With at Least a One Point Decrease in the Global Acne Assessment Score (GAAS) at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>GAAS was conducted by the investigator at Baseline and Week 12. The patient's facial acne was evaluated on a 5 point scale 0=None (no evidence of acne), 1=Minimal (few lesions), 2=Mild (several to many non-inflammatory lesions; few inflammatory lesions), 3=Moderate (many lesions) to 4=Severe (Significant degree of inflammatory disease; papules/pustules present, few nodulo-cystic lesions; comedones may be present). Papules/nodules are round, solid elevations of the skin with no visible fluid. The percentage of participants with at least a one point decrease (improvement) in GAAS was calculated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Global Acne Assessment Score (GAAS) at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>GAAS was conducted by the investigator. The patient's facial acne was evaluated on a 5 point scale 0=None (no evidence of acne), 1=Minimal (few lesions), 2=Mild (several to many non-inflammatory lesions; few inflammatory lesions), 3=Moderate (many lesions) to 4=Severe (Significant degree of inflammatory disease; papules/pustules present, few nodulo-cystic lesions; comedones may be present). Papules and nodules are round, solid elevations of the skin with no visible fluid. A negative change from baseline indicates improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants at Week 12 Having at Least a One Point Decrease in Overall Disease Severity</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The overall disease severity was evaluated by the investigator at Baseline and Week 12 using a 7-point scale to rate the overall acne severity (lesions, inflammation, facial redness and skin condition), where 0=no acne lesions and 6=most severe acne. The percentage of participants with at least a one point decrease (improvement) from baseline is calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Inflammatory Lesion Counts at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent Change from baseline in inflammatory lesion counts (papules, pustules and nodules) at week 12. Papules and nodules are round, solid elevations of the skin with no visible fluid; papules are smaller (less than 5 or 10 millimeters in width and depth) and nodules are larger (greater than 5 or 10 millimeters in width and depth). Pustules are small elevations of the skin containing cloudy material. A negative number change from baseline indicates a reduction in lesion counts (improvement).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Non-inflammatory Lesion Counts at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent Change from baseline in non-inflammatory lesion counts (open/closed comedones) at week 12. Comedones are small bumps on the skin (lesions) caused by acne and found at the opening of a skin pore. Open comedones (also known as a blackheads) have a microscopic opening to the skin surface, while closed comedones (also known as whiteheads or &quot;pimples&quot;) lack the opening to the skin. A negative number change from baseline indicates a reduction in lesion counts (improvement).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Total Lesion Count at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent change in total lesion counts: inflammatory (papules, pustules and nodules) and non-inflammatory (comedones) lesion counts from baseline. Papules and nodules are round, solid elevations of the skin with no visible fluid; papules are smaller (less than 5 or 10 millimeters ) and nodules are larger (greater than 5 or 10 millimeters). Pustules are small elevations of the skin containing cloudy material. Comedones are small bumps on the skin caused by acne and found at the opening of a skin pore. A negative change from baseline indicates a reduction in lesion counts (improvement).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Demonstrating a ≥ 1 Category Increase in Tolerability From Baseline at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The investigator rated the patient's current symptoms of erythema, dryness, peeling, and oiliness on a 5 point scale from 0 (Absent) to 4 (Severe). The investigator rated the symptoms of pruritus and burning since last visit on a 6 point scale of 0 (Absent) to 5 (Severe)-interfering with daily activities. Percentage of participants demonstrating a ≥1 category increase (improvement) in tolerability from baseline is calculated.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">286</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>Aczone® Gel 5% plus Differin® 0.3% Gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dapsone (Aczone® Gel 5%) applied to entire face in the morning. Adapalene (Differin® 0.3% Gel)followed by Dapsone (Aczone® Gel 5%) applied to entire face in the evening. Daily treatment for 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Duac® Topical Gel plus Differin® 0.3% Gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Clindamycin/benzoyl peroxide (Duac® Topical Gel)applied to entire face in the morning. Adapalene (Differin® 0.3% Gel) applied to entire face in the evening. Daily treatment for 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapsone plus Adapalene</intervention_name>
+    <description>Dapsone (Aczone® Gel 5%) applied to entire face in the morning. Adapalene (Differin® 0.3% Gel)followed by Dapsone (Aczone® Gel 5%) applied to entire face in the evening. Daily treatment for 12 weeks.</description>
+    <arm_group_label>Aczone® Gel 5% plus Differin® 0.3% Gel</arm_group_label>
+    <other_name>Aczone® Gel 5%</other_name>
+    <other_name>Differin® 0.3% Gel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clindamycin/benzoyl peroxide plus Adapalene</intervention_name>
+    <description>Clindamycin/benzoyl peroxide (Duac® Topical Gel)applied to entire face in the morning. Adapalene (Differin® 0.3% Gel) applied to entire face in the evening. Daily treatment for 12 weeks</description>
+    <arm_group_label>Duac® Topical Gel plus Differin® 0.3% Gel</arm_group_label>
+    <other_name>Duac® Topical Gel</other_name>
+    <other_name>Differin® 0.3% Gel</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Severe facial acne (acne vulgaris)
+
+        Exclusion Criteria:
+
+          -  History of significant anemia or hemolysis
+
+          -  History of enteritis (eg, regional enteritis, ulcerative colitis, pseudomembranous
+             colitis, antibiotic-associated colitis)
+
+          -  History of lupus, rosacea, or seborrheic dermatitis
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Allergan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Miramar</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2012</verification_date>
+  <lastchanged_date>June 25, 2012</lastchanged_date>
+  <firstreceived_date>October 28, 2010</firstreceived_date>
+  <firstreceived_results_date>June 25, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adapalene</mesh_term>
+    <mesh_term>Benzoyl Peroxide</mesh_term>
+    <mesh_term>Clindamycin</mesh_term>
+    <mesh_term>Clindamycin palmitate</mesh_term>
+    <mesh_term>Clindamycin phosphate</mesh_term>
+    <mesh_term>Dapsone</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="86">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00964223</url>
+  </required_header>
+  <id_info>
+    <org_study_id>114547</org_study_id>
+    <secondary_id>C0000-410</secondary_id>
+    <nct_id>NCT00964223</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Tolerability of Two Topical Drug Products in the Treatment of Facial Acne</brief_title>
+  <official_title>A Single-blind, Randomized, Comparative Split-face Study Evaluating the Tolerability of Clindamycin and Benzoyl Peroxide Gel to Benzoyl Peroxide/Adapalene Gel in the Treatment of Acne Vulgaris.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stiefel, a GSK Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multi-center, single-blind, randomized, comparative, split-face study. The duration of the
+      study is 8 weeks.  Commencing at baseline, subjects will apply once daily both clindamycin
+      and benzoyl peroxide gel and benzoyl peroxide/adapalene gel in a bilateral split-face
+      fashion (allocation to left and right side randomly assigned) for an initial 2 weeks.  After
+      visit 3, subjects will commence application of clindamycin and benzoyl peroxide gel to the
+      entire face for an additional 6 weeks.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multi-center, single-blind, randomized, comparative, split-face study. The duration of the
+      study is 8 weeks and consists of a baseline visit and visits at weeks 1, 2, 5 and 8.
+      Commencing at baseline, subjects will apply once daily both clindamycin and  benzoyl
+      peroxide gel  and benzoyl peroxide/adapalene gel in a bilateral split-face fashion
+      (allocation to left and right side randomly assigned) for an initial 2 weeks.  After visit 3
+      subjects will commence application of clindamycin and benzoyl peroxide gel to the entire
+      face for an additional 6 weeks.
+
+      Blinding This is an investigator-blinded study; therefore, subjects and study-center staff
+      will not be blinded to study treatment allocation (ie, left vs. right side application).
+      During the first 2 weeks, the investigator will be unaware of which study product is being
+      used on either side of the face. Subjects and study-center staff will be instructed not to
+      reveal study treatment allocation to the investigator.  Subjects will be instructed not to
+      use study product in the presence of the investigator.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2009</start_date>
+  <completion_date type="Actual">February 2010</completion_date>
+  <primary_completion_date type="Actual">December 2009</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Skin Dryness Score</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (skin dryness) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Skin Peeling Score</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (skin peeling) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; Intense, 3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Irritant/Allergic Contact Dermatitis Score</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Signs and symptoms of tolerability (erythema, peeling, dryness, and irritant/allergic contact dermatitis) on the face.
+Erythema,peeling, and dryness were graded using the following scale:
+0 None
+Slight
+Moderate
+Intense</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Erythema (Redness) Score</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (irritant/allergic contact dermatitis) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Erythema (Redness) Score</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (erythema) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Dryness Score</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (skin dryness) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Peeling Score</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (skin peeling) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Irritant/Allergic Contact Dermatitis Score</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator assessment of tolerability (contact dermatitis) on the face. Erythema, peeling, and dryness were graded using the following Investigator Assessment of Tolerability scale: 0, None; 1, Slight; 2, Moderate; 3, Intense.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigator Static Global Assessment Score</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>ISGA is evaluated using the following scale: 0, clear, clear skin with no lesions; 1, almost clear, rare non-inflammatory lesions; 2, mild, some non-inflammatory lesions with no more than a few inflammatory lesions but no nodular lesions; 3, moderate, up to many non-inflammatory lesions and may have some inflammatory lesions, but no more than 1 small nodular lesion; 4, severe, up to many non-inflammatory and inflammatory lesions, but no more than a few nodular lesions; 5, very severe, many non-inflammatory and inflammatory lesions and more than a few nodular lesions. May have cystic lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory Acne Lesion Counts</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total number of inflammatory acne lesions (pustules, papules) at each timepoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-Inflammatory Acne Lesion Counts</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total number of non-inflammatory acne lesions (whiteheads and blackheads) at each timepoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Acne Lesion Counts</measure>
+    <time_frame>Week 5, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total acne lesion counts - includes both inflammatory acne lesions (pustules, papules), noninflammatory lesions (whiteheads and blackheads),</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skindex-29 Quality of Life Questionnaire - Symptomatic Domain</measure>
+    <time_frame>Baseline, and Week  8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skindex-29 Quality of Life (QoL) Questionnaire used in dermatological disease consisting of 29 questions covering: burden of symptoms, functioning and emotional domains, with a five-point scale from: &quot;never&quot; to &quot;all the time&quot;, higher scores for each domain indicate worse effects on QoL. Scores range from 0 to 100. Higher scores indicate worse QoL for that domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skindex-29 Quality of Life Questionnaire - Emotional Domain</measure>
+    <time_frame>Baseline, and Week  8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skindex-29 Quality of Life (QoL)Questionnaire used in dermatological disease consisting of 29 questions covering: burden of symptoms, functioning and emotional domains, with a five-point scale from: &quot;never&quot; to &quot;all the time&quot;, higher scores for each domain indicate worse effects on QoL. Scores range from 0 to 100. Higher scores indicate worse QoL for that domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skindex-29 Quality of Life Questionnaire - Functional Domain</measure>
+    <time_frame>Baseline, and Week  8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skindex-29 Quality of Life (QoL)Questionnaire used in dermatological disease consisting of 29 questions covering: burden of symptoms, functioning and emotional domains, with a five-point scale from: &quot;never&quot; to &quot;all the time&quot;, higher scores for each domain indicate worse effects on QoL. Scores range from 0 to 100. Higher scores indicate worse QoL for that domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skindex-29 Quality of Life Questionnaire - Global Score</measure>
+    <time_frame>Baseline, and Week  8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skindex-29 Quality of Life (QoL)Questionnaire used in dermatological disease consisting of 29 questions covering: burden of symptoms, functioning and emotional domains, with a five-point scale from: &quot;never&quot; to &quot;all the time&quot;, higher scores for each domain indicate worse effects on QoL. The Global Score ranges from 0 to 100. Higher scores indicate worse QoL for that domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Redness</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Redness</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Dryness</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Dryness</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Burning</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Burning</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Itching</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Itching</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Scaling</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Severity of Scaling</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, none; 1, very minimal; 2, mild; 3, moderate; 4, severe; 5, very severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Ease of Application of Product</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 1, very easy; 2, easy; 3, neutral; 4, difficult; 5, very difficult.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Ease of Application of Product</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 1, very easy; 2, easy; 3, neutral; 4, difficult; 5, very difficult.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Comfort of Skin</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 1, very comfortable; 2, comfortable; 3, somewhat comfortable; 4, somewhat uncomfortable; 5, uncomfortable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Comfort of Skin</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 1, very comfortable; 2, comfortable; 3, somewhat comfortable; 4, somewhat uncomfortable; 5, uncomfortable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Which Study Product is Subject More Satisfied With?</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 1 and week 2 asking which study product they were more satisfied with: Duac or Epiduo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Comparison of Study Products to Products Used in the Past</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 1, more satisfied; 2, somewhat more satisfied; 3, neither satisfied or dissatisfied; 4, more satisfied; 5, more dissatisfied.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Decrease of Acne Breakouts by Study Products</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 1, highly favorable; 2, favorable; 3, neutral; 4, unfavorable; 5, highly unfavorable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Decrease of Acne Breakouts by Study Products</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 1, highly favorable; 2, favorable; 3, neutral; 4, unfavorable; 5, highly unfavorable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Compliance</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, non-compliant (&lt; 50% of the week); 1, mostly compliant (50-79%); 2, very compliant (80-100%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Compliance</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject response to question regarding use of the product every day or not at week 8 time point answering Yes or No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Feeling of Hydrated and Moisturized Skin</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject response to question: did you feel that your skin was hydrated and moisturized while you on your study product? (Yes or No).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Feeling of Hydrated and Moisturized Skin</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject response to question: did you feel that your skin was hydrated and moisturized while you on your study product? (Yes or No).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Use of Study Product if Choice to Continue Acne Treatment</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject response to the following question: If you were to choose to continue treatment for your acne, which treatment would you choose? (Yes or No).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Use of Study Product if Choice to Continue Acne Treatment</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subject response to the following question: If you were to choose to continue treatment for your acne, which treatment would you choose? (Yes or No).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Ease of Use With Make-Up</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 0, not applicable; 1, very easy; 2, easy; 3, neutral; 4, difficult.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Ease of Use With Make-Up</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measure Description Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 0, not applicable; 1, very easy; 2, easy; 3, neutral; 4, difficult.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Overall Satisfaction of Study Product</measure>
+    <time_frame>Week 1, Week 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at weeks 1 and 2 using the following scale: 1, very satisfied; 2, satisfied; 3, neutral; 4, unsatisfied; 5, very unsatisfied.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Product Acceptability and Preference Questionnaire - Overall Satisfaction of Study Product</measure>
+    <time_frame>Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Product Acceptability and Preference Questionnaire was completed by the subject at week 8 using the following scale: 1, very satisfied; 2, satisfied; 3, neutral; 4, unsatisfied; 5, very unsatisfied.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">28</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>Duac gel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will apply Duac gel once a day to one-half of their face and and apply Epiduo gel on the other side of their face once daily for the first 2 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Epiduo gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will apply Duac gel once a day to one-half of their face and and apply Epiduo gel on the other side of their face once daily for the first 2 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clindamycin and benzoyl peroxide gel (Duac® Topical Gel)</intervention_name>
+    <description>Subjects will apply Duac(clindamycin and benzoyl peroxide) gel  to one-half of their face and and apply Epiduo (benzoyl peroxide/adapalene) gel on the other side of their face once a day for the first 2 weeks.  Starting at week 2, subjects will apply Duac (benzoyl peroxide/clindamycin gel) to the entire face for an additional 6 weeks.</description>
+    <arm_group_label>Duac gel</arm_group_label>
+    <other_name>Duac® Topical Gel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>benzoyl peroxide  and adapalene gel (EPIDUO™ Gel)</intervention_name>
+    <description>Subjects will apply Duac(clindamycin and benzoyl peroxide) gel  to one-half of their face and and apply Epiduo (benzoyl peroxide/adapalene) gel on the other side of their face once a day for the first 2 weeks.  Starting at week 2, subjects will apply Duac (benzoyl peroxide/clindamycin gel) to the entire face for an additional 6 weeks.</description>
+    <arm_group_label>Epiduo gel</arm_group_label>
+    <other_name>EPIDUO™ Gel</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female subjects at least 18 years of age, in good general health with
+             documented diagnosis of facial acne vulgaris.
+
+          -  Sexually active females of childbearing potential participating in the study must
+             agree to use a medically acceptable method of contraception while receiving
+             protocol-assigned product.
+
+          -  Subjects willing to follow therapeutic instructions including avoidance of any other
+             topical facial or systemic acne therapy during the conduct of the study.
+
+          -  Capable of understanding and willing to provide signed and dated written voluntary
+             informed consent before any protocol specific procedures are performed.
+
+        Exclusion Criteria:
+
+          -  Female subjects who are pregnant, trying to become pregnant or breastfeeding.
+
+          -  Subjects who have any clinically relevant finding at their baseline physical
+             examination or medical history such as severe systemic diseases, diseases of the
+             facial skin, other than acne vulgaris.
+
+          -  Facial hair that may obscure the accurate assessment of acne grade.
+
+          -  History or presence of regional enteritis or inflammatory bowel disease (e.g.,
+             ulcerative colitis, pseudomembranous colitis, chronic diarrhea, or a history of
+             antibiotic-associated colitis) or similar symptoms.
+
+          -  Use of topical antibiotics on the face and systemic antibiotics within the past 2 and
+             4 weeks, respectively.
+
+          -  Use of topical corticosteroids on the face or systemic corticosteroids within the
+             past 4 weeks. Use of inhaled, intra-articular or intra-lesional (other than for
+             facial acne lesions) steroids is acceptable.
+
+          -  Use of systemic retinoids within the past 6 months.
+
+          -  Concurrent use of drugs known to be photosensitizers (e.g., thiazides, tetracyclines,
+             fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of
+             increased phototoxicity.
+
+          -  Concomitant use of neuromuscular blocking agents.  Clindamycin has neuromuscular
+             blocking activities, which may enhance the action of other neuromuscular blocking
+             agents.
+
+          -  Use of topical anti-acne medications within the past 2 weeks.
+
+          -  Use of any investigational drugs or treatments during the study or within 4 weeks of
+             the baseline visit.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Aesthetics, Skin Care &amp; Dermasurgery</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grekin Skin Institute</name>
+      <address>
+        <city>Warren</city>
+        <state>Michigan</state>
+        <zip>48088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gonzalez P, Vila R, Cirigliano M. The tolerability profile of clindamycin 1%/benzoyl peroxide 5% gel vs. adapalene 0.1%/benzoyl peroxide 2.5% gel for facial acne: results of a randomized, single-blind, split-face study. J Cosmet Dermatol. 2012 Dec;11(4):251-60. doi: 10.1111/jocd.12013.</citation>
+    <PMID>23174047</PMID>
+  </reference>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>May 14, 2015</lastchanged_date>
+  <firstreceived_date>August 20, 2009</firstreceived_date>
+  <firstreceived_results_date>September 7, 2010</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acne vulgaris</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adapalene</mesh_term>
+    <mesh_term>Benzoyl Peroxide</mesh_term>
+    <mesh_term>Clindamycin</mesh_term>
+    <mesh_term>Clindamycin palmitate</mesh_term>
+    <mesh_term>Clindamycin phosphate</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

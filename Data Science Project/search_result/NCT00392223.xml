@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00392223</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A0661150</org_study_id>
+    <nct_id>NCT00392223</nct_id>
+  </id_info>
+  <brief_title>Efficacy And Safety Of Azithromycin SR Compared With Minocycline In Acne</brief_title>
+  <official_title>A Phase III, Multicenter, Randomized, Double Blind-Double Dummy Study, To Evaluate Efficacy And Safety Of Treatment With Azithromycin, Microspheres, Oral Powder For Suspension, 2 G, In One Administration A Week, For 8 Weeks, Compared With Treatment With Minocycline Capsules, 100 Mg Die For 8 Weeks, In Outpatients With Moderate To Severe Inflammatory Acne.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <authority>Italy: The Italian Medicines Agency</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to evaluate the clinical efficacy of azithromycin microspheres
+      treatment in outpatients with moderate to severe inflammatory acne compared with first line
+      treatment minocycline after 8 weeks of therapy
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study prematurely discontinued on the February 1, 2008 due to slow enrollment.It should
+      be noted that safety concerns have not been seen in this study and have not factored into
+      this decision.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    See Detailed Description
+  </why_stopped>
+  <start_date>October 2007</start_date>
+  <completion_date type="Actual">June 2008</completion_date>
+  <primary_completion_date type="Actual">June 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change From Baseline to End of Treatment in Global Acne Grading System (GAGS) Score</measure>
+    <time_frame>Baseline, Week 8 End of Treatment (EOT)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline to End of Treatment (EOT) in Global Acne Grading System (GAGS) Score - Per Protocol Population</measure>
+    <time_frame>Baseline, Week 8 EOT</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Global Acne Grading System (GAGS) Score</measure>
+    <time_frame>Baseline, Week 4, Week 8 End of Treatment (EOT), 8 weeks after EOT</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement of Global Acne Grading System (GAGS) Score</measure>
+    <time_frame>Week 4, Week 8 End of Treatment (EOT), 8 weeks after EOT</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Acne Graded by Leeds Technique</measure>
+    <time_frame>Baseline, Week 4, Week 8 End of Treatment (EOT), 8 weeks after EOT</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">118</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>Treatment Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Group B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin microspheres</intervention_name>
+    <description>Azithromycin microspheres, powder for oral suspension, 2 g a week, in unique administration PO, repeated weekly for 8 weeks and minocycline-placebo capsules daily for 8 weeks plus minocycline placebo</description>
+    <arm_group_label>Treatment Group A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>minocycline-placebo capsules</intervention_name>
+    <description>minocycline-placebo capsules daily for 8 weeks plus minocycline placebo</description>
+    <arm_group_label>Treatment Group A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin microspheres-placebo</intervention_name>
+    <description>Minocycline capsules, PO, 100 mg daily for 8 weeks and Azithromycin microspheres-placebo once a week for 8 weeks plus azithromycin placebo.</description>
+    <arm_group_label>Treatment Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Minocycline capsules,</intervention_name>
+    <description>Capsules, PO, 100 mg daily for 8 weeks.</description>
+    <arm_group_label>Treatment Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  male and female, &gt; 16 years of age, with diagnosis of acne papulo-pustular, moderate
+             (19-30 GAGS score) to severe (31-33 GAGS score)
+
+        Exclusion Criteria:
+
+          -  pregnancy, gastrointestinal and endocrinological disease, specific systemic disease,
+             hormonal contraceptives, isotretinoin, topic drugs for acne (except detergent
+             allowed)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Germona Del Friuli</city>
+        <state>Udine</state>
+        <zip>33013</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Catania</city>
+        <zip>95124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Catanzaro</city>
+        <zip>88100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Ferrara</city>
+        <zip>44100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Lucca</city>
+        <zip>55100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Messina</city>
+        <zip>98100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Pordenone</city>
+        <zip>33170</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00167</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Terni</city>
+        <zip>05100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pfizer Investigational Site</name>
+      <address>
+        <city>Trieste</city>
+        <zip>34100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=A0661150&amp;StudyName=Efficacy%20And%20Safety%20Of%20Azithromycin%20SR%20Compared%20With%20Minocycline%20In%20Acne%20%20</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>January 2010</verification_date>
+  <lastchanged_date>January 5, 2010</lastchanged_date>
+  <firstreceived_date>October 23, 2006</firstreceived_date>
+  <firstreceived_results_date>June 11, 2009</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Director, Clinical Trial Disclosure Group</name_title>
+    <organization>Pfizer, Inc.</organization>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Minocycline</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

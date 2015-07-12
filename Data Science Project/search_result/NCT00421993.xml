@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="128">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00421993</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RD.06.SPR.18088</org_study_id>
+    <nct_id>NCT00421993</nct_id>
+  </id_info>
+  <brief_title>A Study to Demonstrate the Efficacy and Safety of Adapalene/Benzoyl Peroxide Topical Gel in Subjects With Acne Vulgaris</brief_title>
+  <official_title>A Multi-Center, Randomized, Double-Blind, Parallel-Group Study to Demonstrate the Efficacy and Safety of Adapalene/Benzoyl Peroxide Topical Gel Compared With Adapalene Topical Gel, 0.1%; Benzoyl Peroxide Topical Gel, 2.5% and Topical Gel Vehicle in Subjects With Acne Vulgaris</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Galderma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Galderma</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, randomized, double-blind, parallel group study with 12 weeks of
+      treatment of acne vulgaris.  Efficacy and safety evaluations will be performed at Screening
+      (safety only), Baseline and Weeks 1, 2, 4, 8 and 12.  All Investigator's Global Assessment
+      evaluators and lesion counters must be trained and approved by Galderma. The evaluator of a
+      subject should remain the same during the study.
+
+      The primary objective is to demonstrate the superiority in efficacy and assess safety of
+      Adapalene/Benzoyl Peroxide Topical Gel (Adapalene/Benzoyl Peroxide Gel) versus Adapalene
+      Topical Gel, 0.1% (Adapalene Monad); Benzoyl Peroxide Topical Gel, 2.5% (Benzoyl Peroxide
+      Monad) and Topical Gel Vehicle (Gel Vehicle) in the treatment of acne vulgaris for up to 12
+      weeks.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2006</start_date>
+  <completion_date type="Actual">December 2007</completion_date>
+  <primary_completion_date type="Actual">October 2007</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Success Rate on the Investigator's Global Assessment</measure>
+    <time_frame>at  week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Inflammatory Lesion Counts</measure>
+    <time_frame>from Baseline to week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Noninflammatory Lesion Counts</measure>
+    <time_frame>from Baseline to week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change in Inflammatory Lesion Counts</measure>
+    <time_frame>at  week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change in Noniflammatory Lesion Counts</measure>
+    <time_frame>at week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change in Total Lesion Counts</measure>
+    <time_frame>at week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">1670</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adapalene/Benzoyl Peroxide Topical Gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Adapalene Topical Gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Benzoyl Peroxide Topical Gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Topical Gel Vehicle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adapalene/Benzoyl Peroxide</intervention_name>
+    <description>Topical Gel, One application daily in the evening for 12 weeks</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adapalene</intervention_name>
+    <description>Topical Gel,One application daily in the evening for 12 weeks</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Benzoyl Peroxide</intervention_name>
+    <description>Topical Gel, one application daily in the evening for 12 weeks</description>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topical Gel Vehicle</intervention_name>
+    <description>Topical Gel Vehicle,one application daily in the evening for 12 weeks</description>
+    <arm_group_label>4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A clinical diagnosis of acne vulgaris with facial involvement.
+
+          -  A minimum of 20 but not more than 50 Inflammatory lesions
+
+          -  A minimum of 30 but not more than 100 Noninflammatory lesions
+
+          -  A score of 3 (Moderate) on the Investigator's Global Assessment Scale.
+
+        Exclusion Criteria:
+
+          -  More than one acne nodule or any acne cyst.
+
+          -  Acne conglobata, acne fulminans, secondary acne, or severe acne.
+
+          -  Known previous participation in an Adapalene/Benzoyl Peroxide Topical Gel Trial.
+
+          -  Underlying diseases that require the use of interfering topical or systemic therapy.
+
+          -  Use of prohibited medications prior to the study unless appropriate washout period is
+             documented
+
+          -  Use of hormonal contraceptives solely for control of acne
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Graeber, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Galderma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical Affliated Research Center</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology Research of Arkansas</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Associates in research, Inc.</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697-1385</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology Research Associates</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Marcia J. Glenn, MD and Associates, Dermatology &amp; Laser center, Inc</name>
+      <address>
+        <city>Marina Del Rey</city>
+        <state>California</state>
+        <zip>90292</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Affiliated Research Institute</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University at San Francisco Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiant Research</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dr Weintraub James</name>
+      <address>
+        <city>Simi Valley</city>
+        <state>California</state>
+        <zip>93065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The George Washington University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Visions Clinical Research</name>
+      <address>
+        <city>West palm Beach</city>
+        <state>Florida</state>
+        <zip>33406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Dermatology and Vein Research Center</name>
+      <address>
+        <city>Alpharetta</city>
+        <state>Georgia</state>
+        <zip>30005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SKINQRI</name>
+      <address>
+        <city>Lincolnshire</city>
+        <state>Illinois</state>
+        <zip>60069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Welborn Clinic</name>
+      <address>
+        <city>Evansville</city>
+        <state>Indiana</state>
+        <zip>47713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dawes Fretzin Clinical Research Group, LLC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dolby Research, LLC</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hamzavi Dermatology</name>
+      <address>
+        <city>Port Huron</city>
+        <state>Michigan</state>
+        <zip>48060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset Skin Clinic</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48084</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James Del Rosso, DO - Office of Dr. James Del Russo</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth-Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skin Specialty Group</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Derm Research Center of NY, Inc.</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11790-2598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zoe Draelos</name>
+      <address>
+        <city>High Point</city>
+        <state>North Carolina</state>
+        <zip>27262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OU Health Sciences Center - Dept. of Dermatology</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy, Asthma and Dermatology Research Center, LLC</name>
+      <address>
+        <city>Lake Oswego</city>
+        <state>Oregon</state>
+        <zip>97035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiant Research</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology Associates of Knoxville</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37934</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arlington Center for Dermatology</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UTSW Medical Center at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch at Galveston</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tanner Clinic</name>
+      <address>
+        <city>Layton</city>
+        <state>Utah</state>
+        <zip>84041</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fletcher Allen Health Care</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Dermatology Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2S 3B3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stratica Medical</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T5K 1X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guildford Dermatology Specialists</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>BC V3R 6A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Derm Research @ 888 Inc.</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 3Y1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dermadvances Research</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3C 1R4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Winnipeg Clinic</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3C 0N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NewLab Clinical Research</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>A1B 4S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nexus clinical research</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>A1B 3E1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ultranova Skin care</name>
+      <address>
+        <city>Barrie</city>
+        <state>Ontario</state>
+        <zip>L4M 6L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynderm Research inc.</name>
+      <address>
+        <city>Markham</city>
+        <state>Ontario</state>
+        <zip>L3P 1A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Bay Dermatology Centre</name>
+      <address>
+        <city>North Bay</city>
+        <state>Ontario</state>
+        <zip>P1B 3Z7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>XLR8 Medical Research Inc.</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <zip>N8W 1E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovaderm Research Laval Inc.</name>
+      <address>
+        <city>Laval</city>
+        <state>Quebec</state>
+        <zip>H7S 2C6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovaderm Research Inc</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2K 4L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siena Medical Research</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3G1C6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Licca Clinical Research Institute</name>
+      <address>
+        <city>Augsburg</city>
+        <zip>86179</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henrik Pres</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10435</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meike Schroeder</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14169</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beatrice Gerlach</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01097</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kloverkorn, Windfried</name>
+      <address>
+        <city>Gilching</city>
+        <zip>82205</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Otto-Von-Guericke-Universitat Magdeburg</name>
+      <address>
+        <city>Magdeburg</city>
+        <zip>39120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Michael Sebastian</name>
+      <address>
+        <city>Mahlow</city>
+        <zip>15831</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Dirschka</name>
+      <address>
+        <city>Wuppertal</city>
+        <zip>42275</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Margit Simola</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1084</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Outpatient Dermatilogy Department XIX District</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1195</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Outpatient Dermatology Department DUH</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1036</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Waldemar Placek</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85096</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DERMED Specjalistyczne Gabinety Lekarskie</name>
+      <address>
+        <city>Lodz</city>
+        <zip>90265</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wojceiech Silny</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60355</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+  </location_countries>
+  <link>
+    <url>http://www.galderma.com/</url>
+  </link>
+  <reference>
+    <citation>Leyden JJ. A review of the use of combination therapies for the treatment of acne vulgaris. J Am Acad Dermatol. 2003 Sep;49(3 Suppl):S200-10. Review.</citation>
+    <PMID>12963896</PMID>
+  </reference>
+  <verification_date>October 2009</verification_date>
+  <lastchanged_date>October 19, 2009</lastchanged_date>
+  <firstreceived_date>January 11, 2007</firstreceived_date>
+  <firstreceived_results_date>January 15, 2009</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Michael Graeber, MD, Head of US Development</name_title>
+    <organization>Galderma</organization>
+  </responsible_party>
+  <keyword>Acne vulgaris</keyword>
+  <keyword>Adapalene</keyword>
+  <keyword>Benzoyl Peroxide</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adapalene</mesh_term>
+    <mesh_term>Benzoyl Peroxide</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

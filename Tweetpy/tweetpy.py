@@ -57,7 +57,10 @@ api = tweepy.API(auth)
 
 public_tweets = api.home_timeline()
 for tweet in public_tweets:
-    print tweet.text
+    if  tweet.text.find("#India"):
+        #print tweet.user
+        print tweet.user.name
+        print tweet.text
     
 user = api.me()
 print user
@@ -75,3 +78,16 @@ def on_status(self, status):
 
 # Sample method, used to update a status
 api.update_status('Hello Python Central!')
+
+trends_available = api.trends_available()
+for each_trend in trends_available:
+    #print each_trend['country']
+    print each_trend['url']
+
+for tweet in api.search("#myfitnesspal"):
+    #print tweet.text
+    print tweet.user.name
+    print tweet.user.location
+    print tweet.user.created_at
+    print "\n"
+    

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="293">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01773122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>225678-004</org_study_id>
+    <nct_id>NCT01773122</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, and Pharmacokinetics of Dapsone in Acne Vulgaris</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Allergan</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Allergan</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety, tolerability, and pharmacokinetics (PK) of dapsone in
+      subjects with acne vulgaris following 28 days of dosing.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">May 2013</completion_date>
+  <primary_completion_date type="Actual">May 2013</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Basic Science</study_design>
+  <primary_outcome>
+    <measure>Maximum Plasma Level (Cmax) of Dapsone</measure>
+    <time_frame>Day 28</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Cmax is the maximum plasma level following multiple doses of dapsone. Plasma is the liquid component of the blood in which the blood cells are suspended.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Level (Cmax) of Dapsone Metabolites</measure>
+    <time_frame>Day 28</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Cmax is the maximum plasma level following multiple doses of dapsone. Plasma is the liquid component of the blood in which the blood cells are suspended. The dapsone metabolites are N-acetyl dapsone and dapsone hydroxylamine.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">77</enrollment>
+  <condition>Acne Vulgaris</condition>
+  <arm_group>
+    <arm_group_label>Dapsone Formulation A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dapsone Formulation A applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dapsone Formulation B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dapsone Formulation B applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dapsone Formulation C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dapsone Formulation C applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dapsone 5% Gel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dapsone 5% gel (ACZONE®) applied twice daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapsone Formulation A</intervention_name>
+    <description>Dapsone Formulation A applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+    <arm_group_label>Dapsone Formulation A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapsone Formulation B</intervention_name>
+    <description>Dapsone Formulation B applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+    <arm_group_label>Dapsone Formulation B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapsone Formulation C</intervention_name>
+    <description>Dapsone Formulation C applied once daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+    <arm_group_label>Dapsone Formulation C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapsone 5% Gel</intervention_name>
+    <description>Dapsone 5% gel (ACZONE®) applied twice daily to the face, upper chest, upper back, and shoulders for 28 days.</description>
+    <arm_group_label>Dapsone 5% Gel</arm_group_label>
+    <other_name>ACZONE®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of acne vulgaris
+
+          -  Willing to avoid excessive or prolonged exposure to ultraviolet light (e.g.,
+             sunlight, tanning beds) throughout the study
+
+          -  If male, the subject must agree to shave the facial treatment area and agree to
+             maintain his routine shaving regimen for the duration of the study
+
+          -  willing to avoid applying moisturizers, sunscreens, cosmetics (except eye and lip
+             makeup), and chemical peels throughout the study
+
+        Exclusion Criteria:
+
+          -  Oral acne treatments within 6 months
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Allergan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>College Station</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 11, 2014</lastchanged_date>
+  <firstreceived_date>January 18, 2013</firstreceived_date>
+  <firstreceived_results_date>February 11, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acne Vulgaris</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dapsone</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

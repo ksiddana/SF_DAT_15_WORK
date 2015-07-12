@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="178">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on July 08, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01559922</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SUN-11-001</org_study_id>
+    <nct_id>NCT01559922</nct_id>
+  </id_info>
+  <brief_title>Use of Artefill® for Moderate to Severe Atrophic Acne Scar Correction</brief_title>
+  <official_title>A Phase 3 Randomized Placebo-Controlled Double-Blind Study of the Use of Artefill® for Moderate to Severe Atrophic Acne Scar Correction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Suneva Medical, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Suneva Medical, Inc.</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether Artefill is safe and effective for the
+      correction of atrophic facial acne scars.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2012</start_date>
+  <primary_completion_date type="Anticipated">April 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Rate of ASRS-based success</measure>
+    <time_frame>6 months post-treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>12 months post-treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">177</enrollment>
+  <condition>Acne Scarring of the Face</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal Saline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Artefill</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>Administration of up to 2 study treatments administered 6 weeks apart</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Artefill</intervention_name>
+    <description>Administration of up to 2 study treatments administered 6 weeks apart</description>
+    <arm_group_label>Artefill</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Subject must be an outpatient, male or female subjects of any race, 18 years of age
+             or older.  Female subjects of childbearing potential must have a negative urine
+             pregnancy test result at Baseline and practice a reliable method of contraception
+             throughout the study.
+
+          2. Subject must have moderate to severe atrophic acne scars
+
+          3. Subject must desire correction of his/her moderate to severe acne scarring.
+
+          4. Subjects of all Fitzpatrick skin types are eligible.
+
+          5. Subject must be willing to withhold additional aesthetic therapies to the face (eg,
+             other soft tissue fillers: Restylane, Radiesse, Sculptra, and/or any resurfacing
+             procedures for the duration of the study.
+
+          6. Subject must be able to follow study instructions and likely to complete all required
+             visits, as assessed by the Investigator.
+
+          7. Subject must sign an IRB-approved Informed Consent form, Photographic Release Form,
+             and the Authorization for Use and release of Health and Research Study Information
+             (HIPAA) form prior to any study-related procedures being performed
+
+        Exclusion Criteria:
+
+          1. Female subjects that are pregnant (positive urine pregnancy test), breast-feeding, or
+             who are of childbearing potential and not practicing a reliable method of birth
+             control.
+
+          2. Undergo facial treatments with any listed of the prohibited treatment/procedures
+             and/or use of any other prohibited treatment/procedure within certain time periods.
+
+          3. Have any skin pathology or condition that could interfere with the evaluation of the
+             treatment areas, worsen due to the proposed treatment or require interfering topical,
+             systemic or surgical therapy.
+
+          4. Have a recent or current history of inflammatory skin disease, infection,
+             cancerous/pre-cancerous lesion, unhealed wound or clinically significant acne in the
+             proposed treatment areas.  Clinically significant acne is defined as a patient whom
+             has &gt;3 active inflammatory acne lesions in either the right or left treatment area.
+
+          5. Have a history of systemic granulomatous diseases active or inactive (eg, Sarcoid,
+             Wegeners, TB, etc.) or connective tissue diseases (eg, lupus, dermatomyositis, etc.).
+
+          6. Have hypertrophic acne scars, any evidence of keloid scarring, predominantly icepick
+             scarring (defined as more than half of all scar area in either the left or right or
+             treatment area) or sinus tract scars.
+
+          7. Have a known hypersensitivity or previous allergic reaction to any of the components
+             of the study device (including lidocaine or any amide-based anesthetic), or has a
+             history of allergies to any bovine collagen products, including but not limited to
+             injectable collagen, collagen implants, hemostatic sponges, and collagen-based
+             sutures.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St.Petersburg</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wellesley</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2012</verification_date>
+  <lastchanged_date>July 9, 2012</lastchanged_date>
+  <firstreceived_date>March 15, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acne</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Polymethyl Methacrylate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

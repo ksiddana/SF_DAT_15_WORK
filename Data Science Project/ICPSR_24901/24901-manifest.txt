@@ -1,0 +1,130 @@
+File Manifest for ICPSR 24901
+
+Yi, Zeng, James W. Vaupel, Xiao Zhenyu, Liu Yuzhi, and Zhang Chunyuan.
+Chinese Longitudinal Healthy Longevity Survey (CLHLS), 1998-2005.
+ICPSR24901-v2. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2009-06-04.
+http://doi.org/10.3886/ICPSR24901.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    24901-related_literature.txt        -       -         -       2015-07-05  -
+
+    24901-manifest.txt                  -       -         -       2015-07-06  -
+
+    24901-Documentation.pdf             -       -         -       2009-06-04  9721cc9825ca63f23030127bc7ade69a
+
+
+DS0001 1998-2005 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    24901-0001-Codebook.pdf             -       -         -       2009-05-21  e6a13e6bd3bc1ce5888723b421e30550
+
+    24901-0001-Data.dta                 -       9,093     2077    2009-05-21  b827628c03089ee4a43793d08791b3b6
+
+    24901-0001-Data.sav                 -       9,093     2077    2009-05-21  2859b46dd9d6755c95b14ab3fd787fb2
+
+    24901-0001-Data.stc                 -       9,093     2077    2009-05-21  5503338cf407cebfa7c0b374897368b7
+
+    24901-0001-Data.tsv                 -       9,093     2077    2009-05-21  db736691514fb4483246369f92c923c2
+
+    24901-0001-Data.txt                 4562    9,093     2077    2009-05-21  a3ebfc5577a167f3f220045b29b6697d
+
+    24901-0001-Setup.dct                -       -         -       2009-05-21  0bae2e4182c864db7d939518601d2d2a
+
+    24901-0001-Setup.do                 -       -         -       2009-05-21  0c72d371894801fdb7db77829ef51fa0
+
+    24901-0001-Setup.sas                -       -         -       2009-05-21  e20ce5e8f157f34afe208ea277645c3e
+
+    24901-0001-Setup.sps                -       -         -       2009-05-21  0d48081eeadd1dd2e39fd84c44f63477
+
+
+DS0002 2000-2005 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    24901-0002-Codebook.pdf             -       -         -       2009-05-21  0c16349fc9aae53d671437f97af270c1
+
+    24901-0002-Data.dta                 -       11,199    1709    2009-05-21  211e47a335a51d934540dc94233c76da
+
+    24901-0002-Data.sav                 -       11,199    1709    2009-05-21  05563be5768a64d6af4b79322c5e9cda
+
+    24901-0002-Data.stc                 -       11,199    1709    2009-05-21  d4cc87876873818980d87b879756b0c4
+
+    24901-0002-Data.tsv                 -       11,199    1709    2009-05-21  3b47e149dc0819420d55e6c978dd259c
+
+    24901-0002-Data.txt                 3760    11,199    1709    2009-05-21  249a0e40521c3878e27050a734de35a7
+
+    24901-0002-Setup.dct                -       -         -       2009-05-21  82e8f01422c45651084314a72450a240
+
+    24901-0002-Setup.do                 -       -         -       2009-05-21  12190cdfe9000fcfebdff2336b4b9b1a
+
+    24901-0002-Setup.sas                -       -         -       2009-05-21  f1e70ff8904943e1e74c3b9be65477f4
+
+    24901-0002-Setup.sps                -       -         -       2009-05-21  5ac5999226a0b4e34fb42f8cd057335d
+
+
+DS0003 2002-2005 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    24901-0003-Codebook.pdf             -       -         -       2009-05-21  0ca22e7fddad3209fb49ff3bae64985c
+
+    24901-0003-Data.dta                 -       16,064    1401    2009-05-21  4a7482d9f799aa5e83b401d54fcc455c
+
+    24901-0003-Data.sav                 -       16,064    1401    2009-05-21  2198bffd2237caacd81a17e7b87773ab
+
+    24901-0003-Data.stc                 -       16,064    1401    2009-05-21  3a084b55ecfae7a7563a9d3d4dd33274
+
+    24901-0003-Data.tsv                 -       16,064    1401    2009-05-21  a3377cd9289cd33a7b9db026c2c151a3
+
+    24901-0003-Data.txt                 3091    16,064    1401    2009-05-21  330aaab8e640973dd0443103735a80d9
+
+    24901-0003-Setup.dct                -       -         -       2009-05-21  811172611ec1a191c0aaf935781c551b
+
+    24901-0003-Setup.do                 -       -         -       2009-05-21  682267f2e36f347e9594aaa35a263bda
+
+    24901-0003-Setup.sas                -       -         -       2009-05-21  ae7158d9cc52ba61e3204ca15c04a40e
+
+    24901-0003-Setup.sps                -       -         -       2009-05-21  925cbe9382a61e8ca38729d656990aa1
+
+
+DS0004 2005 Cross-Sectional Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    24901-0004-Codebook.pdf             -       -         -       2009-05-21  fd136d05700fe53b7ec80cc771e333a8
+
+    24901-0004-Data.dta                 -       15,638    755     2009-05-21  3d069d532021cb89bbd471852a6cdc3d
+
+    24901-0004-Data.sav                 -       15,638    755     2009-05-21  2d94e8bf1059804877f03c5cdfef3bf8
+
+    24901-0004-Data.stc                 -       15,638    755     2009-05-21  4640235787d01341817eea2842e95fb3
+
+    24901-0004-Data.tsv                 -       15,638    755     2009-05-21  00784ec465eefd6114d62c4daa7291fd
+
+    24901-0004-Data.txt                 1655    15,638    755     2009-05-21  357793666be425ca4f4822455bde54f3
+
+    24901-0004-Setup.dct                -       -         -       2009-05-21  d0b9a8567c1c0c9d71050b5e56d87c07
+
+    24901-0004-Setup.do                 -       -         -       2009-05-21  a17fe6aff7baba728f39050537a7072c
+
+    24901-0004-Setup.sas                -       -         -       2009-05-21  534561019b477244f48c340ee9cc7c3c
+
+    24901-0004-Setup.sps                -       -         -       2009-05-21  56353ecc28a369d779b2c17f5f601f8a
+
+
+Version History
+
+2009-06-04 Documentation has been added.
