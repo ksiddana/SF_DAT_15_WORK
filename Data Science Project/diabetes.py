@@ -7,6 +7,7 @@ Created on Sun Jul  5 13:01:04 2015
 
 # read diabetes_vanderbilt.csv data into a DataFrame
 import pandas as pd
+import numpy as np
 diabetes_data = pd.read_csv('diabetes_vanderbilt.csv', index_col=0)
 diabetes_data.columns
 #Index([u'chol', u'stab.glu', u'hdl', u'ratio', u'glyhb', u'location', 
@@ -47,11 +48,11 @@ y.isnull().value_counts()
 #False    390
 #True      13
 y.fillna(5.5, inplace=True)
-
+y_category = np.where(y > 7, 1, 0)
 
 # cross-validation train_test_split
 from sklearn.cross_validation import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(x, y,test_size=.33, random_state=1)
+X_train, X_test, y_train, y_test = train_test_split(x, y_category,test_size=.33, random_state=1)
 
 X_train.shape
 X_test.shape
@@ -75,19 +76,13 @@ print logreg.coef_
 assorted_pred = logreg.predict(X_train)
 assorted_pred[:20]
 
-# transform predictions to 1 or 0
-import numpy as np
-assorted_pred_class = np.where(assorted_pred >= 7, 1, 0)
-assorted_pred_class
-
 # add predicted class to DataFrame
-y['assorted_pred_class'] = assorted_pred_class
+#y['assorted_pred_class'] = assorted_pred_class
 
 # scatter plot that includes the regression line
 plt.scatter(X_train, y_train)
-plt.plot(X_train, assorted_pred_class, color='red')
 
-# sort DataFrame by al
+# sort DataFrame by glyhb
 y.sort('glyhb', inplace=True)
 
 # make predictions on testing set and calculate accuracy
@@ -100,15 +95,16 @@ print metrics.accuracy_score(y_test, y_pred_class)
 ##Linear Regeression Model
 ##-----------------------------------
 
+X_train, X_test, y_train, y_test = train_test_split(x, y,test_size=.33, random_state=1)
+
+
 from sklearn.linear_model import LinearRegression
 linreg = LinearRegression()
-linreg.fit(x, y)
+linreg.fit(X_train, y_train)
 
 # look at the coefficients to get the equation for the line, but then how do you plot the line?
 print linreg.intercept_
 print linreg.coef_
-
-linreg.fit(X_train, y_train)
 
 #predict the values of an Out-of Sample test Data based on X_test
 y_pred = linreg.predict(X_test)
@@ -123,8 +119,7 @@ print np.sqrt(metrics.mean_squared_error(y_test, y_pred))
 
 from sklearn.cross_validation import cross_val_score
 scores = cross_val_score(linreg, x, y, cv=5)
-from sklearn import metrics
-metrics.accuracy_score(y_test, y_pred)
+print scores
 
 # scatter matrix in Pandas
 pd.scatter_matrix(x, figsize=(12, 10))
