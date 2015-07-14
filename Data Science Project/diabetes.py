@@ -5,25 +5,6 @@ Created on Sun Jul  5 13:01:04 2015
 @author: karunsiddana
 """
 
-# read data into a DataFrame
-obesity_data = pd.read_csv('diabetes_obesity.csv', index_col=0)
-obesity_data.columns
-# scatter matrix in Seaborn
-import seaborn as sns
-import matplotlib.pyplot as plt
-sns.pairplot(obesity_data)
-
-#Out[42]: Index([u'County Code', u'Region Name', u'Indicator Number',
-#u'Indicator', u'Total Event Counts', u'Denominator', u'Denominator Note', 
-#u'Measure Unit', u'Percentage/Rate', u'95% CI', u'Data Comments', u'Data Years', 
-#u'Data Sources', u'Quartile', u'Mapping Distribution', u'Location'], dtype='object')
-
-import matplotlib.pyplot as plt
-import numpy as np
-from sklearn import datasets, linear_model
-
-diabetes = datasets.load_diabetes()
-
 # read diabetes_vanderbilt.csv data into a DataFrame
 import pandas as pd
 diabetes_data = pd.read_csv('diabetes_vanderbilt.csv', index_col=0)
@@ -48,11 +29,6 @@ sns.lmplot(x='stab.glu', y='glyhb', data=diabetes_data, ci=None)
 #http://web.stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html
 sns.jointplot(x="glyhb", y="stab.glu", data=diabetes_data, kind="kde")
 
-
-#Visual Plot of Barium is only seen in Headlamps
-#diabetes_data.boxplot(column='stab.glu', by='glyhb', rot=90)
-#plotting the Sodium against Refractive Index
-#diabetes_data.plot(x="glyhb", y="stab.glu")
 
 features = ['chol', 'stab.glu', 'hdl']
 x = diabetes_data[features]
@@ -100,6 +76,7 @@ assorted_pred = logreg.predict(X_train)
 assorted_pred[:20]
 
 # transform predictions to 1 or 0
+import numpy as np
 assorted_pred_class = np.where(assorted_pred >= 7, 1, 0)
 assorted_pred_class
 
@@ -132,9 +109,22 @@ print linreg.intercept_
 print linreg.coef_
 
 linreg.fit(X_train, y_train)
+
+#predict the values of an Out-of Sample test Data based on X_test
 y_pred = linreg.predict(X_test)
-np.sqrt(metrics.mean_squared_error(y_test, y_pred))
-print metrics.accuracy_score(y_test, y_pred)
+
+# MAE is the same as before
+# Calculate the error between the predicted values of y_pred and y_test
+print metrics.mean_absolute_error(y_test, y_pred)
+
+# RMSE is larger than before
+# Calculate the error between the predicted values of y_pred and y_test
+print np.sqrt(metrics.mean_squared_error(y_test, y_pred))
+
+from sklearn.cross_validation import cross_val_score
+scores = cross_val_score(linreg, x, y, cv=5)
+from sklearn import metrics
+metrics.accuracy_score(y_test, y_pred)
 
 # scatter matrix in Pandas
 pd.scatter_matrix(x, figsize=(12, 10))
