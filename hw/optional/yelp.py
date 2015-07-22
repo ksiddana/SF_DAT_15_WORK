@@ -12,7 +12,7 @@ import numpy as np
 
 # 1. read in the yelp dataset
 #yelp = pd.read_csv('hw/optional/yelp.csv', index_col=0)
-yelp = pd.read_csv('hw/optional/yelp.csv')
+yelp = pd.read_csv('hw/data/yelp.csv')
 
 # 2. Perform a linear regression using 
 # "stars" as your response and 
@@ -177,8 +177,8 @@ sensitivity = float(matrix[1][1]) / (matrix[1][0] + matrix[1][1])
 specificity = float(matrix[0][0]) / (matrix[0][1] + matrix[0][0])
 accuracy = (float(matrix[0][0]) + matrix[1][1]) / ((matrix[1][0] + matrix[1][1])+(matrix[0][1] + matrix[0][0]))
 
-print sensitivity # Output = 0.977855477855
-print specificity # Output = 0.0650510204082
+print sensitivity # Output = 0.9778
+print specificity # Output = 0.0650
 print accuracy    # Output = 0.6916
 
 # 8. Perform one NEW operation of your 
@@ -238,8 +238,8 @@ sensitivity = float(matrix[1][1]) / (matrix[1][0] + matrix[1][1])
 specificity = float(matrix[0][0]) / (matrix[0][1] + matrix[0][0])
 accuracy = (float(matrix[0][0]) + matrix[1][1]) / ((matrix[1][0] + matrix[1][1])+(matrix[0][1] + matrix[0][0]))
 
-print sensitivity # Output = 0.99817240329
-print specificity # Output = 0.00976290097629
+print sensitivity # Output = 0.9981
+print specificity # Output = 0.0097
 print accuracy    # Output = 0.821
 
 
@@ -249,11 +249,8 @@ print accuracy    # Output = 0.821
 
 # 1. Read in the titanic data set.
 
-titanic_data = pd.read_csv('Homework/titanic.csv', index_col=0)
+titanic_data = pd.read_csv('hw/data/titanic.csv', index_col=0)
 titanic_data.columns
-features = ["Pclass", "Parch"]
-x = titanic_data[features]
-y = titanic_data['Survived']
 
 # 4. Create a new column called "wife" that is True
 # if the name of the person contains Mrs.
@@ -263,7 +260,7 @@ titanic_data['wife'] = (titanic_data.Name.str.contains("Mrs.")) & (titanic_data.
 
 # 5. What is the average age of a male and
 # the average age of a female on board?
-avg_male_age = titanic_data[(titanic_data.Sex == "male")]["Age"].mean()
+avg_male_age = titanic_data[(titanic_data.Sex == "male")]['Age'].mean()
 
 # 5. Fill in missing MALE age values with the
 # average age of the remaining MALE ages
@@ -271,7 +268,11 @@ titanic_data.Age[titanic_data.Sex == 'male'].fillna(avg_male_age, inplace=True)
 
 # 6. Fill in missing FEMALE age values with the
 # average age of the remaining FEMALE ages
+avg_female_age = titanic_data[(titanic_data.Sex == "female")]['Age'].mean()
+titanic_data.Age[titanic_data.Sex == 'female'].fillna(avg_female_age, inplace=True)
 
+#####****Error*******
+titanic_data.Age.fillna(avg_female_age, inplace=True)
 
 # 7. Perform a Logistic Regression using
 # Survived as your response and age, wife
@@ -289,12 +290,11 @@ logreg = LogisticRegression()
 logreg.fit(X_train, y_train)
 zip(features, logreg.coef_[0])
 
-print logreg.intercept_
-print logreg.coef_
-
-y_pred_class = logreg.predict(X_test)
-from sklearn import metrics
-print metrics.accuracy_score(y_test, y_pred_class)
+##-------------------------------------------
+##Output
+#[('Age', -0.018195662965542814), 
+# ('wife', 2.1859439178635998)]
+##-------------------------------------------
 
 # 8. Show Accuracy, Sensitivity, Specificity and 
 # Confusion matrix
@@ -304,22 +304,65 @@ preds = logreg.predict(X_test)
 matrix = metrics.confusion_matrix(y_test, preds)
 print matrix
 
+##-------------------------------------------
+##Output
+#[[165   9]
+# [104  17]]
+##-------------------------------------------
+
 sensitivity = float(matrix[1][1]) / (matrix[1][0] + matrix[1][1])
 specificity = float(matrix[0][0]) / (matrix[0][1] + matrix[0][0])
 accuracy = (float(matrix[0][0]) + matrix[1][1]) / ((matrix[1][0] + matrix[1][1])+(matrix[0][1] + matrix[0][0]))
 
-print sensitivity
-print specificity 
-print accuracy
-
+print sensitivity # Output = 0.140495867769
+print specificity # Output = 0.948275862069
+print accuracy    # Output = 0.616949152542
 
 # 9. now use ANY of your variables as predictors
 # Still using survived as a response to boost metrics!
 
+features = ['Age', 'wife', 'Pclass', 'Parch']
+x = titanic_data[features]
+y = titanic_data['Survived']
+
+# understanding train_test_split
+from sklearn.cross_validation import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(x, y,test_size=.33, random_state=1)
+
+from sklearn.linear_model import LogisticRegression
+logreg = LogisticRegression()
+logreg.fit(X_train, y_train)
+zip(features, logreg.coef_[0])
+
+##-------------------------------------------
+##Output
+#[('Age', -0.033199147637000624),
+# ('wife', 1.9355083684220087),
+# ('Pclass', -0.95067051800796609),
+# ('Parch', 0.20596509348624045)]
+##-------------------------------------------
+
 
 # 10. Show Accuracy, Sensitivity, Specificity
 
+from sklearn import metrics
+preds = logreg.predict(X_test)
+matrix = metrics.confusion_matrix(y_test, preds)
+print matrix
 
+##-------------------------------------------
+##Output
+#[[155  19]
+# [ 66  55]]
+##-------------------------------------------
+
+sensitivity = float(matrix[1][1]) / (matrix[1][0] + matrix[1][1])
+specificity = float(matrix[0][0]) / (matrix[0][1] + matrix[0][0])
+accuracy = (float(matrix[0][0]) + matrix[1][1]) / ((matrix[1][0] + matrix[1][1])+(matrix[0][1] + matrix[0][0]))
+
+print sensitivity # Output = 0.454
+print specificity # Output = 0.885
+print accuracy    # Output = 0.711
 
 # REMEMBER TO USE
 # TRAIN TEST SPLIT AND CROSS VALIDATION
