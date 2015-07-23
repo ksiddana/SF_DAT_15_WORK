@@ -48,7 +48,7 @@ y.isnull().value_counts()
 #False    390
 #True      13
 y.fillna(5.5, inplace=True)
-y_category = np.where(y > 7, 1, 0)
+y_category = np.where(y > 6.5, 1, 0)
 
 # cross-validation train_test_split
 from sklearn.cross_validation import train_test_split
@@ -89,6 +89,24 @@ y.sort('glyhb', inplace=True)
 y_pred_class = logreg.predict(X_test)
 from sklearn import metrics
 print metrics.accuracy_score(y_test, y_pred_class)
+
+from sklearn import metrics
+preds = logreg.predict(X_test)
+matrix = metrics.confusion_matrix(y_test, preds)
+print matrix
+
+##Output
+##[[  112  0]
+## [  10  11]]
+##-------------------------------------------
+
+sensitivity = float(matrix[1][1]) / (matrix[1][0] + matrix[1][1])
+specificity = float(matrix[0][0]) / (matrix[0][1] + matrix[0][0])
+accuracy = (float(matrix[0][0]) + matrix[1][1]) / ((matrix[1][0] + matrix[1][1])+(matrix[0][1] + matrix[0][0]))
+
+print sensitivity # Output = 0.52380952381
+print specificity # Output = 1.0
+print accuracy    # Output = 0.924812030075
 
 
 ##-----------------------------------
