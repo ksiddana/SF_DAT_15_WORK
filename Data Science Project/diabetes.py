@@ -175,7 +175,7 @@ print accuracy    # Output = 0.924812030075
 # Linear Regeression Model
 #-----------------------------------
 
-features = ['stab.glu']
+features = ['stab.glu', 'weight', 'bp.1s']
 x = diabetes_data[features]
 x
 y = diabetes_data['glyhb']
@@ -251,9 +251,13 @@ plt.legend()
 # Stats Linear Regeression Model
 #-----------------------------------
 
+diabetes_data['avg_glu'] = diabetes_data['stab.glu']
+diabetes_data['bp_1s'] = diabetes_data['bp.1s']
+diabetes_data['bp_1d'] = diabetes_data['bp.1d']
+
 import statsmodels.formula.api as smf
 # create a fitted model
-lm = smf.ols(formula='glyhb ~ chol + weight + age + waist + hip + gender + hdl + ratio', data=diabetes_data).fit()
+lm = smf.ols(formula='glyhb ~ avg_glu + bp_1s + bp_1d + chol + weight + age + waist + hip + gender + hdl + ratio', data=diabetes_data).fit()
 lm.rsquared
 # Output = 
 #-------------------------------------------
