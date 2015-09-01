@@ -52,31 +52,110 @@ final_df = pd.DataFrame.merge(frame2, df_quotes, left_on='invite_id', right_on='
 #Format the Columns in to Dates and Time Columns
 import matplotlib.dates as DT
 
-final_df['creation_time_test'] = pd.to_datetime(final_df.creation_time, "%Y-%M-%D")
-
+##------------------------------------------------------------------
+#Conver the time the Request was created by the User and entered into the database
+#final_df['creation_time_test'] = pd.to_datetime(final_df.creation_time, "%Y-%M-%D")
 final_df['c_date'] = final_df['creation_time'].map(lambda x: x[:10])
 final_df['c_time'] = final_df['creation_time'].map(lambda x: x[11:-7])
-final_df['c_date2num'] = final_df['c_date'].map(lambda x: DT.datestr2num(x))
+#final_df['c_date2num'] = final_df['c_date'].map(lambda x: DT.datestr2num(x))
+final_df['c_date2num'] = pd.to_datetime(final_df.c_date)
+final_df['c_time2num'] = pd.to_timedelta(final_df.c_time)
+#final_df['c_time2num'] = pd.to_datetime(final_df.c_time)
 
+##------------------------------------------------------------------
+#Convert the time the Invite was sent to the User to Format Required
 final_df['i_date'] = final_df['sent_time_x'].map(lambda x: x[:10])
 final_df['i_time'] = final_df['sent_time_x'].map(lambda x: x[11:-7])
-final_df['i_date2num'] = final_df['i_date'].map(lambda x: DT.datestr2num(x))
+#final_df['i_date2num'] = final_df['i_date'].map(lambda x: DT.datestr2num(x))
+final_df['i_date2num'] = pd.to_datetime(final_df.i_date)
+final_df['i_time2num'] = pd.to_timedelta(final_df.i_time)
 
+##------------------------------------------------------------------
+#Conver the time the Quote was sent back to the Database from the user in the Format Required
 final_df['q_date'] = final_df['sent_time_y'].map(lambda x: x[:10])
 final_df['q_time'] = final_df['sent_time_y'].map(lambda x: x[11:-7])
-final_df['q_date2num'] = final_df['q_date'].map(lambda x: DT.datestr2num(x))
+#final_df['q_date2num'] = final_df['q_date'].map(lambda x: DT.datestr2num(x))
+final_df['q_date2num'] = pd.to_datetime(final_df.q_date)
+final_df['q_time2num'] = pd.to_timedelta(final_df.q_time)
 
-final_df.drop(['creation_time', 'sent_time_x', 'sent_time_y'], axis=1, inplace=True)
+final_df.drop(['creation_time', 'sent_time_x', 'sent_time_y', 'c_date','c_time', 
+'i_date','i_time' ,'q_date', 'q_time'], axis=1, inplace=True)
 
 #This is the relationship that we are looking for
 final_df[['i_time', 'q_time']]
-final_df[['i_date','q_date','i_time', 'q_time']]
+final_df[['i_date2num','q_date2num','i_time2num', 'q_time2num']]
 
+##------------------------------------------------------------------
 #Plot some Line Graphs
+colors = ['b','g','r']
 plt.plot(final_df.q_date2num, final_df.category_id )
 plt.plot_date(final_df.i_date2num, final_df.category_id)
-plt.plot_date(final_df.i_date2num.head(20), final_df.category_id.head(20))
 
+plt.scatter(final_df.i_time2num.head(50), color='red')
+plt.scatter(final_df.q_time2num.head(50), color='green')
+plt.plot(final_df.i_time2num.head(50), final_df.q_time2num.head(50), 'bo')
+final_df.groupby('location_id').i_date2num.hist(sharex=True)
+
+import matplotlib.pyplot as plt
+colors = ['b','g','r','c','m']
+plt.bar(final_df.i_date2num, final_df.q_date2num, align = 'center', color = colors)
+plt_obj = final_df.set_index('i_date2num').plot()
+
+from datetime import datetime
+import numpy as np
+
+
+def convert_to_12(x):
+    if x > 12
+
+y1 = final_df.i_time2num[final_df.category_id == 1]
+y2 = final_df.q_time2num[final_df.category_id == 1]
+
+x1 = final_df.i_time2num[final_df.category_id == 1]
+x2 = final_df.q_time2num[final_df.category_id == 1]
+
+#dt = np.datetime64(final_df.c_time2num) - np.datetime64(final_df.c_time2num)
+
+final_df['ans'] = final_df.i_time2num.apply(lambda x: x  / np.timedelta64(1,'m')).astype('int64') % (24*60)
+y = (y2-y1).astype('timedelta64[h]')
+
+difference = x2 - x1
+
+difference.hist()
+
+plt.plot(difference)
+plt.show()
+
+plt.axvline(x, y1, y2)
+
+plt.plot(y1)
+plt.plot(y2, color = 'red')
+plt.plot(y)
+
+
+
+from datetime import timedelta
+
+times = ['00:02:20','00:4:40']
+
+def average(times): 
+  print(str(timedelta(seconds=sum(map(lambda f: int(f[0])*3600 + int(f[1])*60 + int(f[2]), map(lambda f: f.split(':'), times)))/len(times))))
+
+average(times)
+
+'''
+fig = plt.figure()
+ax = plt.subplot(111)
+plt.plot(final_df.i_time2num,'o-')
+plt.plot(final_df.q_time2num,'o-',label='E98')
+plt.legend(loc=4)
+plt.ylabel('Price (Euro/Litre)')
+plt.xlabel('Year')
+plt.grid()
+plt.show()
+'''
+
+import statsmodels.api as sm
 #Trying to plot the Quote Time and the Invite DateTime on the same Axis and see what the difference is
 #Can I plot a histogram instead? What will give me the best insight to my data?
 #Bar Graph?
